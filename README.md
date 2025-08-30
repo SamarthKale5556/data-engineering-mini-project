@@ -17,8 +17,8 @@ The project demonstrates how a small retail dataset can be captured, cleaned, an
 
 ##  Contents of Repository
 - **Documentation (PDF):** Full assignment with case study and research.  
-- **Dataset (CSV):** `retail_sales_25.csv` (25 sample transactions).  
-- **Python Script:** `retail_analysis.py` for data cleaning, analysis, and visualization.  
+- **Dataset (CSV):** `retail_sales_1500.csv` (1500 sample transactions).  
+- **Python Script:** `data_enigneering_samarth.py` for data cleaning, analysis, and visualization.  
 - **Outputs:** Visualizations (line chart, bar charts, top products).  
 
 ---
@@ -32,15 +32,23 @@ The project demonstrates how a small retail dataset can be captured, cleaned, an
 ---
 
 ##  Analysis & Insights
-From the processed dataset, the following insights were generated:  
-- **Total Revenue:** ₹2,56,372  
-- **Best Selling Product:** Laptop  
-- **Top Customer:** Ramesh  
-- **Revenue by Category:**  
-  - Electronics → ₹2,29,000  
-  - Clothing → ₹18,200  
-  - Grocery → ₹9,172  
-- **Daily Sales Trend:** Sales peaked on 1st, 5th, 9th, and 10th August  
+From the processed dataset, the following insights were generated:
+-Total Revenue: ₹32,82,55,375 (overall sales from all transactions)
+-Best Selling Product: Jacket
+-Top Customer: Michael
+
+-Revenue by Category:
+-Electronics → ₹11,34,54,394
+-Clothing → ₹11,03,36,214
+-Grocery → ₹10,44,64,767
+
+-Daily Sales Trend (Peak Days):
+
+-17th July 2025 → ₹87,70,031
+-30th July 2025 → ₹85,73,545
+-27th July 2025 → ₹80,27,285
+-19th August 2025 → ₹79,10,398
+
 
 ---
 

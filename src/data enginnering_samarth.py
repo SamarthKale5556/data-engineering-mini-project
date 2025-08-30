@@ -1,5 +1,5 @@
 # -------------------------------
-# Retail Sales Analysis (Mini Project)
+# Retail Sales Analysis (Mini Project) - 1500 Entries
 # -------------------------------
 
 # Import necessary libraries
@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 # -------------------------------
 
 # Load dataset
-df = pd.read_csv("retail_sales_25.csv")
+df = pd.read_csv("retail_dataset_1500.csv")
 
 # Remove duplicate and missing records
 df = df.drop_duplicates()
@@ -47,7 +47,7 @@ summary = pd.DataFrame({
     "Top Customer": [top_customer]
 })
 
-# Print insights
+# Print insights clearly
 print("===== Retail Sales Insights =====")
 print(summary.to_string(index=False))
 
@@ -73,13 +73,12 @@ daily_sales = df.groupby("Date")["Total_Sales"].sum().reset_index()
 
 plt.figure(figsize=(10, 5))
 sns.lineplot(data=daily_sales, x="Date", y="Total_Sales", marker="o")
-plt.title("Daily Sales Trend", fontsize=14, weight="bold")
+plt.title("Daily Sales Trend (1500 Records)", fontsize=14, weight="bold")
 plt.xlabel("Date")
 plt.ylabel("Total Sales")
 plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
-plt.close()
 
 # --- (B) Sales by Category ---
 plt.figure(figsize=(8, 5))
@@ -89,7 +88,6 @@ plt.xlabel("Category")
 plt.ylabel("Total Sales")
 plt.tight_layout()
 plt.show()
-plt.close()
 
 # --- (C) Top 5 Products by Sales ---
 top_products = (
@@ -106,6 +104,10 @@ plt.xlabel("Total Sales")
 plt.ylabel("Product")
 plt.tight_layout()
 plt.show()
-plt.close()
+
+# -------------------------------
+# End of Script
+# -------------------------------
+
 
 

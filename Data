@@ -1,0 +1,26 @@
+Date,Product,Category,Price,Quantity,Customer,Total_Sales
+2025-08-01,Laptop,Electronics,50000,1,Ramesh,50000
+2025-08-01,T-Shirt,Clothing,500,2,Priya,1000
+2025-08-02,Rice Bag,Grocery,1200,1,Sunil,1200
+2025-08-02,Headphones,Electronics,2000,1,Priya,2000
+2025-08-03,Jeans,Clothing,1500,1,Ramesh,1500
+2025-08-03,Shoes,Clothing,2500,1,Amit,2500
+2025-08-04,Mobile Phone,Electronics,20000,1,Kavita,20000
+2025-08-04,Milk Packet,Grocery,50,10,Anita,500
+2025-08-05,Washing Machine,Electronics,30000,1,Ravi,30000
+2025-08-05,Bread,Grocery,40,5,Ramesh,200
+2025-08-06,Fan,Electronics,3500,1,Kiran,3500
+2025-08-06,Trousers,Clothing,1800,2,Priya,3600
+2025-08-07,Sugar Bag,Grocery,900,1,Sunil,900
+2025-08-07,Earbuds,Electronics,1500,1,Ramesh,1500
+2025-08-08,Shirt,Clothing,700,3,Amit,2100
+2025-08-08,Sneakers,Clothing,3000,1,Kavita,3000
+2025-08-09,Tablet,Electronics,25000,1,Ravi,25000
+2025-08-09,Butter,Grocery,60,5,Anita,300
+2025-08-10,Refrigerator,Electronics,45000,1,Ramesh,45000
+2025-08-10,Eggs,Grocery,6,12,Kiran,72
+2025-08-11,Television,Electronics,40000,1,Priya,40000
+2025-08-11,Jacket,Clothing,5000,1,Sunil,5000
+2025-08-12,Oil Tin,Grocery,2000,2,Amit,4000
+2025-08-12,Chocolates,Grocery,150,10,Kavita,1500
+2025-08-13,Microwave,Electronics,12000,1,Anita,12000

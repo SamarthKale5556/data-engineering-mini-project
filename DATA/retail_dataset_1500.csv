@@ -1,0 +1,1501 @@
+Date,Customer,Product,Category,Price,Quantity,Region,Total_Sales
+2025-07-15,Robin,Jacket,Clothing,74619,10,North,746190
+2025-07-25,John,Mobile Phone,Electronics,43371,6,West,260226
+2025-08-08,Kari,T-Shirt,Clothing,17843,8,South,142744
+2025-07-21,Veronica,Oil Bottle,Grocery,70431,6,West,422586
+2025-07-18,Brooke,T-Shirt,Clothing,68348,5,East,341740
+2025-08-11,Douglas,Sugar Pack,Grocery,2503,4,East,10012
+2025-08-28,Adrian,T-Shirt,Clothing,19619,5,North,98095
+2025-07-24,Jennifer,Jacket,Clothing,70078,3,West,210234
+2025-08-17,Katrina,Television,Electronics,15365,5,East,76825
+2025-07-24,Christina,Rice Bag,Grocery,35635,7,North,249445
+2025-08-08,Elizabeth,Jeans,Clothing,48754,8,East,390032
+2025-07-20,Rebecca,Television,Electronics,39675,3,North,119025
+2025-07-20,Colleen,T-Shirt,Clothing,26539,2,West,53078
+2025-07-24,Ralph,Rice Bag,Grocery,63313,9,South,569817
+2025-08-15,Sally,Headphones,Electronics,63419,9,East,570771
+2025-08-04,Ryan,Jeans,Clothing,12928,9,South,116352
+2025-07-17,Susan,Laptop,Electronics,60260,7,North,421820
+2025-08-08,Kevin,Headphones,Electronics,5821,10,North,58210
+2025-07-06,Eric,Jacket,Clothing,6097,2,East,12194
+2025-08-10,Kelly,Television,Electronics,40963,4,East,163852
+2025-07-03,Angela,Mobile Phone,Electronics,37610,5,East,188050
+2025-08-15,Carol,T-Shirt,Clothing,35787,3,South,107361
+2025-07-02,Rhonda,T-Shirt,Clothing,2049,10,North,20490
+2025-07-17,Erika,Television,Electronics,45966,9,East,413694
+2025-07-16,Cynthia,Jeans,Clothing,37178,10,South,371780
+2025-08-28,Wayne,Laptop,Electronics,40862,10,East,408620
+2025-07-23,Christopher,Oil Bottle,Grocery,6698,3,North,20094
+2025-07-22,Mary,T-Shirt,Clothing,13934,7,North,97538
+2025-08-15,Vincent,Washing Machine,Electronics,51419,3,West,154257
+2025-07-08,Nicole,Bread,Grocery,41002,6,South,246012
+2025-08-12,Cheryl,Sugar Pack,Grocery,10345,8,South,82760
+2025-07-09,Austin,Washing Machine,Electronics,12798,8,East,102384
+2025-08-16,Megan,Oil Bottle,Grocery,61725,4,South,246900
+2025-08-24,Trevor,Television,Electronics,33873,6,West,203238
+2025-07-17,John,Headphones,Electronics,42617,8,West,340936
+2025-07-17,Donna,Laptop,Electronics,62353,2,East,124706
+2025-07-16,David,Jacket,Clothing,22437,5,East,112185
+2025-08-26,Sierra,Sugar Pack,Grocery,16747,9,North,150723
+2025-07-17,Alejandro,T-Shirt,Clothing,42762,9,North,384858
+2025-08-06,Aaron,Dress,Clothing,60470,7,West,423290
+2025-07-04,Jacob,Television,Electronics,31991,9,South,287919
+2025-07-26,Mark,Jacket,Clothing,8708,6,South,52248
+2025-07-27,Paul,Sugar Pack,Grocery,56561,7,East,395927
+2025-07-27,Debbie,Milk Packet,Grocery,22736,2,West,45472
+2025-07-27,Suzanne,Television,Electronics,78178,8,East,625424
+2025-08-09,Christopher,Rice Bag,Grocery,58405,3,East,175215
+2025-08-10,Amanda,T-Shirt,Clothing,78465,2,West,156930
+2025-08-18,Chloe,Jacket,Clothing,8108,2,South,16216
+2025-08-05,Hannah,Television,Electronics,74,3,South,222
+2025-07-18,Megan,Dress,Clothing,38257,7,West,267799
+2025-08-20,Sarah,Mobile Phone,Electronics,41547,5,East,207735
+2025-08-04,Michelle,Shoes,Clothing,11753,10,North,117530
+2025-08-20,Barbara,Sugar Pack,Grocery,53028,3,East,159084
+2025-08-11,Paul,Headphones,Electronics,71993,1,North,71993
+2025-07-02,Brett,Sugar Pack,Grocery,47136,2,East,94272
+2025-08-25,Carrie,Mobile Phone,Electronics,56635,10,West,566350
+2025-07-24,Lauren,Bread,Grocery,50223,7,West,351561
+2025-07-18,Rhonda,Dress,Clothing,27734,3,West,83202
+2025-07-27,Michael,Mobile Phone,Electronics,72850,7,East,509950
+2025-07-07,Jacob,Jeans,Clothing,37860,3,South,113580
+2025-07-30,Kenneth,Laptop,Electronics,2108,3,West,6324
+2025-08-09,Christopher,Oil Bottle,Grocery,17846,2,South,35692
+2025-08-24,Patrick,Oil Bottle,Grocery,59822,10,West,598220
+2025-07-08,Tim,Milk Packet,Grocery,59608,9,West,536472
+2025-07-21,Jacqueline,Oil Bottle,Grocery,50475,6,South,302850
+2025-07-05,Max,Washing Machine,Electronics,79292,1,West,79292
+2025-07-29,Jeremy,Milk Packet,Grocery,65812,5,West,329060
+2025-07-17,Misty,Sugar Pack,Grocery,48149,1,North,48149
+2025-08-13,Danielle,Oil Bottle,Grocery,48360,2,West,96720
+2025-07-03,Sabrina,Rice Bag,Grocery,18673,9,East,168057
+2025-07-23,Juan,Dress,Clothing,10304,9,North,92736
+2025-08-23,Elizabeth,Washing Machine,Electronics,10284,9,East,92556
+2025-08-17,Donald,Rice Bag,Grocery,45079,9,North,405711
+2025-07-14,William,Jacket,Clothing,67245,8,East,537960
+2025-07-16,Lisa,Shoes,Clothing,38666,5,South,193330
+2025-08-08,Jessica,Television,Electronics,39905,10,East,399050
+2025-08-18,David,Washing Machine,Electronics,75828,3,North,227484
+2025-08-14,Andrew,Bread,Grocery,3628,5,West,18140
+2025-08-20,Lacey,Mobile Phone,Electronics,66319,2,East,132638
+2025-08-29,Dennis,Jeans,Clothing,36877,5,East,184385
+2025-07-28,Cheryl,Laptop,Electronics,79194,3,South,237582
+2025-08-20,Sean,Oil Bottle,Grocery,48516,3,East,145548
+2025-08-07,Shawn,Milk Packet,Grocery,63609,3,North,190827
+2025-07-11,James,T-Shirt,Clothing,19064,10,South,190640
+2025-07-03,April,Jacket,Clothing,50272,4,West,201088
+2025-07-17,Angela,Milk Packet,Grocery,27687,10,East,276870
+2025-07-24,Aaron,Headphones,Electronics,15253,1,South,15253
+2025-07-26,Patricia,Jacket,Clothing,62470,5,West,312350
+2025-07-26,Alison,Sugar Pack,Grocery,30676,7,West,214732
+2025-08-14,Amber,Shoes,Clothing,19075,9,West,171675
+2025-08-02,Andrea,Headphones,Electronics,58877,7,East,412139
+2025-07-11,Taylor,Rice Bag,Grocery,12811,9,East,115299
+2025-08-19,Marissa,Dress,Clothing,35778,6,East,214668
+2025-08-10,Calvin,T-Shirt,Clothing,33518,10,West,335180
+2025-08-04,Oscar,Jeans,Clothing,77215,4,East,308860
+2025-08-19,Michael,Milk Packet,Grocery,41110,9,North,369990
+2025-07-18,Amanda,Rice Bag,Grocery,8956,1,West,8956
+2025-08-17,Hector,Television,Electronics,13669,8,East,109352
+2025-08-28,Roger,Headphones,Electronics,33066,4,North,132264
+2025-08-25,Wendy,Television,Electronics,12100,1,South,12100
+2025-07-04,Shane,Rice Bag,Grocery,15775,2,South,31550
+2025-07-11,Gerald,Dress,Clothing,24267,2,South,48534
+2025-07-23,John,Shoes,Clothing,61254,2,West,122508
+2025-08-28,Christopher,Jacket,Clothing,42439,5,South,212195
+2025-08-29,Jessica,Headphones,Electronics,8227,7,West,57589
+2025-08-18,Jonathan,T-Shirt,Clothing,33897,5,South,169485
+2025-07-04,Christopher,T-Shirt,Clothing,64500,4,West,258000
+2025-07-26,Brittany,Washing Machine,Electronics,14262,3,West,42786
+2025-07-22,Connie,Television,Electronics,13976,8,East,111808
+2025-07-02,Jennifer,Laptop,Electronics,9607,2,East,19214
+2025-07-01,Christopher,T-Shirt,Clothing,65284,3,North,195852
+2025-08-22,Courtney,Washing Machine,Electronics,34972,3,East,104916
+2025-07-26,Shawn,Dress,Clothing,535,9,West,4815
+2025-08-20,George,Jacket,Clothing,52991,2,South,105982
+2025-07-08,Jeffery,Washing Machine,Electronics,63235,2,East,126470
+2025-08-19,Jose,Shoes,Clothing,52559,1,North,52559
+2025-08-01,Michelle,Dress,Clothing,44622,2,West,89244
+2025-07-06,Alexis,Jeans,Clothing,23199,9,North,208791
+2025-07-28,David,Jeans,Clothing,39223,7,North,274561
+2025-07-09,Logan,Bread,Grocery,63816,2,West,127632
+2025-08-02,Kyle,Milk Packet,Grocery,18392,1,South,18392
+2025-07-24,Sarah,Television,Electronics,31308,8,West,250464
+2025-07-03,Sherry,Television,Electronics,40384,8,West,323072
+2025-07-21,Lori,Laptop,Electronics,44520,1,East,44520
+2025-08-08,Justin,Rice Bag,Grocery,53200,2,South,106400
+2025-07-18,Vincent,Sugar Pack,Grocery,60129,9,South,541161
+2025-07-23,Michael,Sugar Pack,Grocery,30587,2,North,61174
+2025-07-05,Antonio,Milk Packet,Grocery,64130,1,West,64130
+2025-07-05,Richard,Rice Bag,Grocery,31858,3,North,95574
+2025-07-24,Julie,Laptop,Electronics,40333,2,West,80666
+2025-07-20,Heather,Milk Packet,Grocery,77519,2,North,155038
+2025-08-03,Jennifer,Washing Machine,Electronics,78034,10,South,780340
+2025-08-21,Jessica,Mobile Phone,Electronics,55914,6,West,335484
+2025-07-17,Anna,T-Shirt,Clothing,75543,9,South,679887
+2025-08-05,Jeffrey,Jeans,Clothing,6025,10,South,60250
+2025-08-16,Tonya,T-Shirt,Clothing,15876,5,South,79380
+2025-07-23,Yesenia,Jeans,Clothing,48537,9,South,436833
+2025-07-12,Michael,Jeans,Clothing,76332,1,South,76332
+2025-07-14,Rachael,Television,Electronics,49350,3,North,148050
+2025-08-17,Richard,T-Shirt,Clothing,882,1,South,882
+2025-08-28,Christopher,Television,Electronics,37239,7,West,260673
+2025-08-07,Jacob,Milk Packet,Grocery,27071,3,East,81213
+2025-08-16,Vanessa,Oil Bottle,Grocery,54055,4,South,216220
+2025-07-20,Benjamin,Rice Bag,Grocery,78204,3,West,234612
+2025-08-19,Andrea,Rice Bag,Grocery,39528,6,West,237168
+2025-07-02,Leslie,Television,Electronics,30935,4,North,123740
+2025-07-14,Nathan,Rice Bag,Grocery,47485,9,South,427365
+2025-07-03,Wesley,Jeans,Clothing,36281,1,South,36281
+2025-07-19,Sophia,Mobile Phone,Electronics,62232,8,South,497856
+2025-08-20,Vincent,Laptop,Electronics,7131,6,East,42786
+2025-08-18,Christina,Washing Machine,Electronics,32999,6,West,197994
+2025-08-15,Tiffany,Laptop,Electronics,6925,9,South,62325
+2025-07-27,Jennifer,Laptop,Electronics,63627,9,North,572643
+2025-07-06,Tanner,Mobile Phone,Electronics,58353,10,East,583530
+2025-07-06,Rebecca,Jeans,Clothing,42738,4,North,170952
+2025-07-10,Teresa,Jeans,Clothing,12903,4,West,51612
+2025-07-23,Karen,Washing Machine,Electronics,28972,2,West,57944
+2025-08-01,Kevin,Oil Bottle,Grocery,7172,7,South,50204
+2025-08-18,Jennifer,Television,Electronics,59686,3,West,179058
+2025-07-02,Sharon,Jeans,Clothing,60046,4,East,240184
+2025-08-26,Micheal,Jeans,Clothing,44075,3,North,132225
+2025-08-12,Danielle,Sugar Pack,Grocery,7868,5,South,39340
+2025-08-19,Ryan,Washing Machine,Electronics,60156,7,South,421092
+2025-08-12,Alan,Jeans,Clothing,38737,10,South,387370
+2025-07-04,Shannon,Sugar Pack,Grocery,22323,10,South,223230
+2025-08-18,Jonathan,Washing Machine,Electronics,68439,8,South,547512
+2025-07-17,Stacey,Oil Bottle,Grocery,60705,5,North,303525
+2025-08-07,Gregory,Oil Bottle,Grocery,32379,4,East,129516
+2025-08-01,Samantha,Dress,Clothing,29201,10,South,292010
+2025-07-07,Elizabeth,Rice Bag,Grocery,54808,1,North,54808
+2025-07-10,Rhonda,Dress,Clothing,4456,7,West,31192
+2025-08-28,Steven,T-Shirt,Clothing,59352,8,South,474816
+2025-07-13,Bethany,Television,Electronics,1678,7,South,11746
+2025-07-26,Cynthia,Headphones,Electronics,38819,4,North,155276
+2025-07-03,Robin,Washing Machine,Electronics,40005,3,West,120015
+2025-08-11,Amber,Sugar Pack,Grocery,3249,8,West,25992
+2025-08-10,Ashley,Washing Machine,Electronics,24291,6,West,145746
+2025-08-21,Christopher,Rice Bag,Grocery,9316,7,East,65212
+2025-07-30,Michael,Rice Bag,Grocery,38924,7,East,272468
+2025-07-15,Derrick,Sugar Pack,Grocery,71148,10,South,711480
+2025-08-02,Joshua,Rice Bag,Grocery,44050,1,East,44050
+2025-08-15,Michelle,Laptop,Electronics,50244,6,West,301464
+2025-08-21,Diane,Rice Bag,Grocery,47966,6,South,287796
+2025-08-25,Melissa,Sugar Pack,Grocery,8832,9,South,79488
+2025-08-29,Sheila,Headphones,Electronics,31328,9,North,281952
+2025-07-21,Alexander,Oil Bottle,Grocery,76087,4,South,304348
+2025-08-17,Robert,Shoes,Clothing,35093,9,West,315837
+2025-07-16,Micheal,T-Shirt,Clothing,8355,6,East,50130
+2025-07-07,Jennifer,Jacket,Clothing,65776,9,North,591984
+2025-08-14,Charles,Dress,Clothing,69892,5,West,349460
+2025-07-23,Jennifer,Bread,Grocery,8651,4,West,34604
+2025-07-27,Darrell,Laptop,Electronics,51257,3,East,153771
+2025-08-20,Crystal,Laptop,Electronics,21646,5,North,108230
+2025-08-22,George,Milk Packet,Grocery,65104,3,South,195312
+2025-08-12,Meghan,Rice Bag,Grocery,38476,7,South,269332
+2025-08-01,Lisa,Shoes,Clothing,55117,8,North,440936
+2025-08-15,Carol,Jeans,Clothing,8300,1,South,8300
+2025-08-05,Crystal,Bread,Grocery,54011,10,East,540110
+2025-07-03,Natalie,Bread,Grocery,63770,10,West,637700
+2025-07-23,Janet,Shoes,Clothing,74400,3,East,223200
+2025-07-26,Madeline,Headphones,Electronics,29774,8,East,238192
+2025-08-25,Sarah,T-Shirt,Clothing,19493,6,East,116958
+2025-07-18,Marvin,Jeans,Clothing,21125,9,East,190125
+2025-08-27,Gregory,Mobile Phone,Electronics,20167,3,South,60501
+2025-07-02,James,Laptop,Electronics,41550,10,South,415500
+2025-08-12,James,Shoes,Clothing,48503,3,South,145509
+2025-08-01,Mariah,Rice Bag,Grocery,41592,6,South,249552
+2025-08-14,Robert,Jacket,Clothing,70811,3,East,212433
+2025-07-16,Tony,Laptop,Electronics,53076,8,South,424608
+2025-07-12,Edward,Shoes,Clothing,20504,1,East,20504
+2025-07-06,Laura,Bread,Grocery,62166,5,South,310830
+2025-08-08,Matthew,Oil Bottle,Grocery,44442,2,West,88884
+2025-08-04,Daniel,Mobile Phone,Electronics,72265,2,East,144530
+2025-07-05,Erin,Washing Machine,Electronics,28933,8,East,231464
+2025-08-21,Larry,Headphones,Electronics,7263,10,South,72630
+2025-07-21,Matthew,Sugar Pack,Grocery,29166,5,South,145830
+2025-07-21,Rhonda,Laptop,Electronics,70620,8,North,564960
+2025-07-08,Daniel,Oil Bottle,Grocery,25536,8,East,204288
+2025-07-26,Shane,Sugar Pack,Grocery,67100,1,East,67100
+2025-08-06,Matthew,Jeans,Clothing,56101,6,West,336606
+2025-08-02,Trevor,T-Shirt,Clothing,37359,6,East,224154
+2025-08-11,Anna,Jacket,Clothing,73585,2,South,147170
+2025-08-09,Jessica,Oil Bottle,Grocery,54524,8,East,436192
+2025-08-28,Kimberly,Washing Machine,Electronics,54339,3,North,163017
+2025-08-26,Brian,Mobile Phone,Electronics,39795,8,East,318360
+2025-08-22,Joshua,Television,Electronics,49303,2,North,98606
+2025-08-19,Eric,Shoes,Clothing,54381,3,West,163143
+2025-08-19,Brian,Sugar Pack,Grocery,17997,4,South,71988
+2025-07-17,Jeremiah,Shoes,Clothing,72646,8,North,581168
+2025-08-13,Janet,Dress,Clothing,39884,8,West,319072
+2025-08-06,Bill,Laptop,Electronics,370,3,East,1110
+2025-07-08,Becky,Jacket,Clothing,16326,5,West,81630
+2025-07-30,Debra,Washing Machine,Electronics,32129,1,North,32129
+2025-08-07,Lisa,Jacket,Clothing,8795,10,East,87950
+2025-07-06,Michael,Oil Bottle,Grocery,74180,7,East,519260
+2025-08-06,Laura,Oil Bottle,Grocery,15724,6,North,94344
+2025-07-20,Ashley,Jeans,Clothing,76288,1,South,76288
+2025-08-21,Catherine,Jacket,Clothing,17809,6,South,106854
+2025-07-29,Erika,Headphones,Electronics,47388,7,East,331716
+2025-07-24,Christopher,Headphones,Electronics,38278,9,North,344502
+2025-08-13,James,Milk Packet,Grocery,24068,2,South,48136
+2025-07-21,Jose,Bread,Grocery,41496,5,East,207480
+2025-07-13,Jason,Bread,Grocery,12611,9,East,113499
+2025-07-25,Molly,Laptop,Electronics,18000,9,East,162000
+2025-07-12,Timothy,Jacket,Clothing,54050,6,South,324300
+2025-07-08,Patricia,Mobile Phone,Electronics,20307,9,South,182763
+2025-08-09,Cole,Television,Electronics,68948,9,North,620532
+2025-08-14,Jonathan,Jacket,Clothing,10063,2,South,20126
+2025-07-05,Steven,Washing Machine,Electronics,45690,5,East,228450
+2025-07-11,Donald,Washing Machine,Electronics,78385,9,East,705465
+2025-07-24,Evelyn,Headphones,Electronics,3819,2,South,7638
+2025-07-04,Kelly,Mobile Phone,Electronics,29747,5,South,148735
+2025-07-23,Spencer,Mobile Phone,Electronics,10352,7,North,72464
+2025-08-06,Michael,Laptop,Electronics,63522,7,North,444654
+2025-08-25,Katrina,Laptop,Electronics,4348,9,North,39132
+2025-07-08,James,T-Shirt,Clothing,33212,1,North,33212
+2025-07-21,Lori,T-Shirt,Clothing,12698,2,South,25396
+2025-07-20,Brenda,Milk Packet,Grocery,24269,6,North,145614
+2025-08-12,Kiara,Mobile Phone,Electronics,36406,10,East,364060
+2025-08-20,Robin,Jeans,Clothing,65669,10,South,656690
+2025-07-11,Nicholas,Sugar Pack,Grocery,9007,2,North,18014
+2025-07-19,Joseph,Milk Packet,Grocery,25156,5,South,125780
+2025-07-15,Tammy,Rice Bag,Grocery,12984,4,West,51936
+2025-07-15,Angela,Dress,Clothing,24314,8,North,194512
+2025-08-13,Bruce,Headphones,Electronics,49806,7,South,348642
+2025-08-27,Matthew,Milk Packet,Grocery,53472,2,East,106944
+2025-08-12,Jennifer,Washing Machine,Electronics,14509,9,South,130581
+2025-08-16,Meagan,Shoes,Clothing,37834,9,North,340506
+2025-08-29,Shelia,Headphones,Electronics,64761,2,West,129522
+2025-08-20,Caitlin,Jacket,Clothing,78744,5,West,393720
+2025-07-18,John,Television,Electronics,53433,5,West,267165
+2025-07-15,Patrick,Laptop,Electronics,62397,6,South,374382
+2025-07-02,Phillip,Washing Machine,Electronics,13835,7,West,96845
+2025-08-27,Paul,Rice Bag,Grocery,15676,3,West,47028
+2025-07-10,Jessica,Dress,Clothing,13382,3,North,40146
+2025-07-08,Lisa,Jeans,Clothing,44435,4,West,177740
+2025-07-11,Patricia,Mobile Phone,Electronics,55716,8,East,445728
+2025-07-05,David,Sugar Pack,Grocery,77860,5,West,389300
+2025-07-14,Jared,Jacket,Clothing,79108,7,West,553756
+2025-08-17,Scott,Bread,Grocery,19366,8,North,154928
+2025-08-29,Melinda,Headphones,Electronics,64188,8,South,513504
+2025-08-14,Jason,Milk Packet,Grocery,3945,2,North,7890
+2025-07-11,Sydney,Washing Machine,Electronics,3556,3,West,10668
+2025-07-09,Chad,Bread,Grocery,20069,5,North,100345
+2025-07-16,Alexandria,Television,Electronics,64562,8,South,516496
+2025-08-11,Aaron,Jacket,Clothing,64308,9,East,578772
+2025-08-24,Carol,Bread,Grocery,70898,9,North,638082
+2025-07-26,Leslie,Washing Machine,Electronics,15665,7,West,109655
+2025-08-12,Brenda,Jacket,Clothing,58056,8,North,464448
+2025-08-13,Cody,Mobile Phone,Electronics,73013,5,South,365065
+2025-08-14,Brian,Jacket,Clothing,17677,5,West,88385
+2025-08-03,Katherine,T-Shirt,Clothing,74610,8,West,596880
+2025-08-29,Sabrina,Dress,Clothing,20537,9,North,184833
+2025-08-17,Johnathan,Shoes,Clothing,64890,10,West,648900
+2025-07-13,Michael,Bread,Grocery,37331,6,North,223986
+2025-08-25,Michael,Television,Electronics,5963,3,East,17889
+2025-08-29,Tony,Dress,Clothing,3575,6,West,21450
+2025-08-08,Philip,Washing Machine,Electronics,45288,6,West,271728
+2025-08-04,Angela,T-Shirt,Clothing,32061,4,South,128244
+2025-07-27,Melissa,Bread,Grocery,77714,2,North,155428
+2025-07-02,Stacey,T-Shirt,Clothing,44299,3,North,132897
+2025-08-16,Jay,Bread,Grocery,4949,8,West,39592
+2025-07-31,Jennifer,Sugar Pack,Grocery,55253,5,North,276265
+2025-08-01,Brandi,Oil Bottle,Grocery,77118,1,East,77118
+2025-08-16,Christina,Dress,Clothing,51207,6,North,307242
+2025-07-05,Mark,T-Shirt,Clothing,27038,6,West,162228
+2025-08-16,Austin,Bread,Grocery,21890,10,East,218900
+2025-07-30,Donna,Jacket,Clothing,26494,8,North,211952
+2025-07-21,Margaret,Milk Packet,Grocery,37714,5,North,188570
+2025-08-11,Matthew,Dress,Clothing,52744,4,North,210976
+2025-08-01,Dana,Sugar Pack,Grocery,12466,10,East,124660
+2025-07-20,Donna,T-Shirt,Clothing,74292,9,West,668628
+2025-08-10,Jennifer,Jeans,Clothing,45573,2,East,91146
+2025-08-28,Wesley,Bread,Grocery,56792,9,East,511128
+2025-08-23,Steven,Washing Machine,Electronics,52780,5,West,263900
+2025-07-16,Erica,Sugar Pack,Grocery,23721,1,South,23721
+2025-08-10,Erin,Oil Bottle,Grocery,27962,8,East,223696
+2025-08-26,Charles,Sugar Pack,Grocery,56899,10,North,568990
+2025-08-06,Michelle,Milk Packet,Grocery,47796,8,South,382368
+2025-07-11,Gilbert,Mobile Phone,Electronics,39407,7,West,275849
+2025-07-07,Steven,T-Shirt,Clothing,26730,7,East,187110
+2025-07-03,Donna,Jeans,Clothing,33662,10,South,336620
+2025-07-11,Anthony,Jeans,Clothing,14934,3,South,44802
+2025-07-29,Daniel,Mobile Phone,Electronics,40753,8,West,326024
+2025-07-31,Thomas,Oil Bottle,Grocery,55364,1,South,55364
+2025-08-28,Chad,Headphones,Electronics,17932,1,East,17932
+2025-07-09,Thomas,Dress,Clothing,23116,1,West,23116
+2025-07-25,William,Laptop,Electronics,11050,6,East,66300
+2025-07-27,Jackie,Washing Machine,Electronics,47686,2,West,95372
+2025-08-13,Susan,Milk Packet,Grocery,30988,2,North,61976
+2025-08-22,Brady,Sugar Pack,Grocery,68896,5,West,344480
+2025-08-22,Matthew,Mobile Phone,Electronics,78669,2,East,157338
+2025-08-05,Noah,Dress,Clothing,51161,4,West,204644
+2025-07-28,Steven,Mobile Phone,Electronics,14050,3,South,42150
+2025-07-06,Carlos,Jacket,Clothing,53576,5,North,267880
+2025-07-31,Donald,Dress,Clothing,49163,2,East,98326
+2025-07-26,Luis,Oil Bottle,Grocery,62290,4,East,249160
+2025-08-13,Karen,Headphones,Electronics,62338,6,East,374028
+2025-07-15,Bradley,Television,Electronics,4612,1,South,4612
+2025-07-17,Amber,Dress,Clothing,50472,5,East,252360
+2025-08-16,Ashley,Rice Bag,Grocery,70161,4,West,280644
+2025-08-15,Juan,T-Shirt,Clothing,51558,5,East,257790
+2025-08-06,Monica,Mobile Phone,Electronics,39033,4,South,156132
+2025-07-25,Tanya,Shoes,Clothing,53303,1,East,53303
+2025-07-20,Ashley,Washing Machine,Electronics,61796,7,East,432572
+2025-07-20,Melissa,Oil Bottle,Grocery,13209,3,East,39627
+2025-08-17,Jeffery,Rice Bag,Grocery,46168,7,East,323176
+2025-07-03,Jill,T-Shirt,Clothing,6878,3,West,20634
+2025-07-23,Daniel,Milk Packet,Grocery,453,7,South,3171
+2025-07-20,Tracy,Bread,Grocery,41170,10,North,411700
+2025-07-23,Brandon,Mobile Phone,Electronics,32766,9,South,294894
+2025-08-26,Candace,Oil Bottle,Grocery,41914,8,West,335312
+2025-07-30,Denise,Milk Packet,Grocery,34217,3,East,102651
+2025-07-10,Annette,Jeans,Clothing,11112,7,East,77784
+2025-07-18,Rebecca,Washing Machine,Electronics,49506,10,South,495060
+2025-08-27,Sandra,Laptop,Electronics,73257,10,South,732570
+2025-07-12,Jesus,Washing Machine,Electronics,26037,5,South,130185
+2025-07-30,Daniel,Washing Machine,Electronics,56267,10,East,562670
+2025-07-02,William,Laptop,Electronics,48274,3,North,144822
+2025-08-08,Kathryn,Television,Electronics,57087,8,West,456696
+2025-08-18,Willie,Mobile Phone,Electronics,26676,4,East,106704
+2025-08-15,Daniel,Jacket,Clothing,50129,3,West,150387
+2025-08-14,Christopher,Television,Electronics,28304,5,South,141520
+2025-07-06,Randy,Jeans,Clothing,53596,3,North,160788
+2025-07-16,Heather,Shoes,Clothing,30915,10,West,309150
+2025-07-01,Christopher,Headphones,Electronics,76452,8,North,611616
+2025-07-11,Diana,Washing Machine,Electronics,17509,6,West,105054
+2025-07-14,Walter,Milk Packet,Grocery,50315,7,East,352205
+2025-08-04,Kimberly,Laptop,Electronics,73057,1,North,73057
+2025-08-24,Johnny,Jeans,Clothing,61776,6,North,370656
+2025-08-11,Wendy,Headphones,Electronics,66181,10,West,661810
+2025-07-26,Shannon,Jacket,Clothing,48664,3,North,145992
+2025-07-22,Alyssa,Milk Packet,Grocery,34166,3,West,102498
+2025-08-15,Allen,Jacket,Clothing,17340,2,East,34680
+2025-07-02,Mario,Sugar Pack,Grocery,56794,3,East,170382
+2025-08-21,Isaiah,Headphones,Electronics,5838,3,West,17514
+2025-07-05,Robert,Shoes,Clothing,56422,5,East,282110
+2025-08-09,Ashley,Bread,Grocery,67810,6,West,406860
+2025-08-29,James,Headphones,Electronics,64442,3,West,193326
+2025-08-26,Kevin,Mobile Phone,Electronics,19530,1,South,19530
+2025-08-07,Sarah,Laptop,Electronics,61686,5,South,308430
+2025-07-31,Gabrielle,Oil Bottle,Grocery,57253,2,West,114506
+2025-07-16,Elizabeth,Washing Machine,Electronics,46779,9,West,421011
+2025-07-24,Lori,Jacket,Clothing,14794,3,North,44382
+2025-08-16,Dylan,T-Shirt,Clothing,26753,5,South,133765
+2025-08-06,Tyrone,Television,Electronics,35805,10,South,358050
+2025-07-17,Melinda,Rice Bag,Grocery,68995,10,South,689950
+2025-07-19,Stephanie,T-Shirt,Clothing,32314,8,North,258512
+2025-08-29,Angel,T-Shirt,Clothing,37311,2,West,74622
+2025-08-02,John,Dress,Clothing,13952,6,South,83712
+2025-08-27,Kristen,Laptop,Electronics,60373,8,West,482984
+2025-07-05,Susan,Bread,Grocery,77933,1,East,77933
+2025-07-22,Renee,Television,Electronics,59438,6,South,356628
+2025-07-09,Bradley,Laptop,Electronics,37137,6,North,222822
+2025-08-18,Karen,Rice Bag,Grocery,71766,10,West,717660
+2025-07-12,Debbie,Washing Machine,Electronics,33494,3,South,100482
+2025-07-22,Robert,T-Shirt,Clothing,2738,4,South,10952
+2025-08-25,Bryan,Jacket,Clothing,37397,3,North,112191
+2025-08-21,Shelia,Jacket,Clothing,56720,5,South,283600
+2025-08-29,Amy,T-Shirt,Clothing,48213,9,South,433917
+2025-08-05,Christie,Jacket,Clothing,50917,8,East,407336
+2025-07-04,Christopher,Sugar Pack,Grocery,55502,2,West,111004
+2025-08-10,Brett,Dress,Clothing,24476,7,West,171332
+2025-08-13,Andrew,Laptop,Electronics,67334,6,West,404004
+2025-07-07,Brittany,Milk Packet,Grocery,20375,8,North,163000
+2025-07-17,Rita,Jacket,Clothing,57375,2,West,114750
+2025-07-28,Kristen,Jeans,Clothing,16799,5,South,83995
+2025-07-03,Matthew,Oil Bottle,Grocery,38779,10,North,387790
+2025-08-01,Ashley,Rice Bag,Grocery,5960,9,North,53640
+2025-07-07,Jennifer,Oil Bottle,Grocery,54185,2,West,108370
+2025-07-17,David,Sugar Pack,Grocery,33261,6,East,199566
+2025-08-21,Christopher,Rice Bag,Grocery,66037,1,North,66037
+2025-08-10,David,Oil Bottle,Grocery,23584,3,West,70752
+2025-08-02,Jessica,Laptop,Electronics,54608,5,East,273040
+2025-07-12,Robin,Oil Bottle,Grocery,59025,10,East,590250
+2025-08-05,Joseph,Jeans,Clothing,27715,3,North,83145
+2025-08-21,Arthur,Sugar Pack,Grocery,34039,2,West,68078
+2025-07-18,Jonathan,Rice Bag,Grocery,816,7,North,5712
+2025-08-29,Tristan,Mobile Phone,Electronics,62587,8,West,500696
+2025-08-29,Andrew,Sugar Pack,Grocery,63845,5,East,319225
+2025-08-24,Jacqueline,Oil Bottle,Grocery,39719,2,South,79438
+2025-07-29,Leslie,Laptop,Electronics,25058,2,North,50116
+2025-07-22,Robert,Milk Packet,Grocery,3564,4,West,14256
+2025-08-03,Darrell,Milk Packet,Grocery,31740,7,South,222180
+2025-08-22,Heather,Headphones,Electronics,60792,3,West,182376
+2025-08-04,Joshua,T-Shirt,Clothing,15314,3,South,45942
+2025-08-21,Christian,Oil Bottle,Grocery,63626,8,North,509008
+2025-07-07,David,Dress,Clothing,31851,4,East,127404
+2025-07-07,Kristen,Oil Bottle,Grocery,6724,6,North,40344
+2025-07-29,Jessica,Washing Machine,Electronics,54534,8,East,436272
+2025-08-14,David,Washing Machine,Electronics,52436,8,West,419488
+2025-07-08,Linda,Laptop,Electronics,69296,1,West,69296
+2025-08-18,Sandra,Bread,Grocery,72566,2,East,145132
+2025-07-12,David,Oil Bottle,Grocery,62091,2,West,124182
+2025-08-27,Clifford,Bread,Grocery,58812,7,North,411684
+2025-08-26,Kim,Headphones,Electronics,25242,8,East,201936
+2025-07-05,Rebecca,Jeans,Clothing,66586,4,East,266344
+2025-08-07,Karla,Oil Bottle,Grocery,17241,5,West,86205
+2025-08-03,Martha,Shoes,Clothing,61958,3,South,185874
+2025-08-12,Christopher,T-Shirt,Clothing,63343,3,South,190029
+2025-07-31,Michael,Mobile Phone,Electronics,79446,8,North,635568
+2025-07-08,Jessica,Jacket,Clothing,39850,4,South,159400
+2025-08-21,Andrea,Rice Bag,Grocery,2426,6,East,14556
+2025-07-21,Christine,Jeans,Clothing,22950,9,North,206550
+2025-07-14,Sonia,Headphones,Electronics,56492,2,South,112984
+2025-07-18,Annette,Television,Electronics,29422,8,East,235376
+2025-07-22,Lindsay,Shoes,Clothing,6167,9,East,55503
+2025-07-28,Evan,Television,Electronics,79255,2,North,158510
+2025-07-02,Loretta,Jacket,Clothing,14589,2,North,29178
+2025-08-18,Katelyn,Rice Bag,Grocery,66543,2,South,133086
+2025-08-09,David,Rice Bag,Grocery,26970,6,South,161820
+2025-07-05,Justin,Bread,Grocery,57920,9,West,521280
+2025-08-17,James,Rice Bag,Grocery,20273,6,East,121638
+2025-07-02,Tammy,Laptop,Electronics,26512,8,West,212096
+2025-07-27,Kimberly,Mobile Phone,Electronics,62134,6,East,372804
+2025-07-22,Kevin,Milk Packet,Grocery,11221,5,East,56105
+2025-08-18,Rebecca,Oil Bottle,Grocery,47320,4,South,189280
+2025-08-03,Maureen,Oil Bottle,Grocery,29958,3,West,89874
+2025-07-30,Ruben,Jacket,Clothing,60179,9,East,541611
+2025-07-05,Sarah,Washing Machine,Electronics,19132,1,North,19132
+2025-07-19,Randall,Headphones,Electronics,41312,7,South,289184
+2025-07-22,Emma,T-Shirt,Clothing,51596,1,South,51596
+2025-07-02,Tamara,Rice Bag,Grocery,68178,5,West,340890
+2025-07-10,Brittney,Dress,Clothing,39938,6,East,239628
+2025-08-18,Matthew,Headphones,Electronics,69228,10,South,692280
+2025-08-07,Curtis,Oil Bottle,Grocery,58532,4,West,234128
+2025-07-25,Amber,Bread,Grocery,53069,4,East,212276
+2025-07-06,Linda,Laptop,Electronics,70492,6,West,422952
+2025-07-17,Brandon,Milk Packet,Grocery,68269,9,East,614421
+2025-07-30,Matthew,Laptop,Electronics,67115,9,East,604035
+2025-08-28,Regina,Bread,Grocery,21025,1,North,21025
+2025-07-02,Aaron,Sugar Pack,Grocery,33957,4,East,135828
+2025-08-17,Kyle,Oil Bottle,Grocery,66277,2,North,132554
+2025-07-09,Charles,Shoes,Clothing,66568,6,North,399408
+2025-07-07,Amber,Laptop,Electronics,58866,5,North,294330
+2025-07-30,Megan,Shoes,Clothing,30995,10,South,309950
+2025-08-09,Jessica,Shoes,Clothing,37344,10,South,373440
+2025-07-06,Bradley,Oil Bottle,Grocery,68163,4,North,272652
+2025-08-06,Debra,Dress,Clothing,76382,4,East,305528
+2025-07-27,Sandra,T-Shirt,Clothing,19259,7,West,134813
+2025-07-07,Jeffery,Laptop,Electronics,8201,7,South,57407
+2025-08-01,Anne,Jeans,Clothing,58529,2,East,117058
+2025-07-31,James,Sugar Pack,Grocery,52839,10,West,528390
+2025-08-12,James,Dress,Clothing,65432,7,West,458024
+2025-07-28,Emma,Oil Bottle,Grocery,54696,3,South,164088
+2025-08-06,Kimberly,Milk Packet,Grocery,63589,8,South,508712
+2025-08-15,Ivan,Sugar Pack,Grocery,69405,2,South,138810
+2025-07-09,Kevin,Jacket,Clothing,4323,3,East,12969
+2025-08-19,Lisa,Television,Electronics,53608,2,North,107216
+2025-08-29,Shawn,Dress,Clothing,38007,1,South,38007
+2025-07-03,Victoria,Headphones,Electronics,40017,6,East,240102
+2025-08-24,Dalton,Jacket,Clothing,3717,3,South,11151
+2025-08-23,Peter,Oil Bottle,Grocery,6426,5,East,32130
+2025-08-05,Martin,Mobile Phone,Electronics,64117,1,North,64117
+2025-08-06,Danielle,Bread,Grocery,8905,1,West,8905
+2025-07-23,Kayla,Dress,Clothing,40643,10,West,406430
+2025-07-27,Steven,Jacket,Clothing,62339,10,South,623390
+2025-07-05,Monica,Television,Electronics,60465,8,West,483720
+2025-08-09,Crystal,Headphones,Electronics,11756,10,West,117560
+2025-08-01,Joseph,Jeans,Clothing,51875,6,North,311250
+2025-07-20,Christopher,Oil Bottle,Grocery,36406,2,South,72812
+2025-07-21,Kristina,Rice Bag,Grocery,75022,5,North,375110
+2025-07-12,Ryan,Sugar Pack,Grocery,11211,4,North,44844
+2025-08-26,Troy,Sugar Pack,Grocery,24874,8,North,198992
+2025-07-07,Kristine,Television,Electronics,23609,1,East,23609
+2025-07-25,Joseph,Mobile Phone,Electronics,76013,8,North,608104
+2025-08-07,Timothy,Sugar Pack,Grocery,42049,7,North,294343
+2025-07-16,Dale,T-Shirt,Clothing,44608,7,South,312256
+2025-07-16,April,T-Shirt,Clothing,69243,6,West,415458
+2025-07-06,Tammy,T-Shirt,Clothing,15076,2,South,30152
+2025-07-02,Brenda,Jeans,Clothing,23992,5,North,119960
+2025-07-21,Steve,Headphones,Electronics,53432,3,North,160296
+2025-07-18,Paul,Bread,Grocery,23834,1,North,23834
+2025-07-19,Christina,Jacket,Clothing,12992,6,South,77952
+2025-08-26,Anna,Shoes,Clothing,33857,7,North,236999
+2025-08-02,Amy,Mobile Phone,Electronics,31457,10,South,314570
+2025-08-03,Brett,Dress,Clothing,66165,7,North,463155
+2025-07-12,Elizabeth,T-Shirt,Clothing,41774,8,West,334192
+2025-07-07,Yvonne,Washing Machine,Electronics,3838,7,South,26866
+2025-08-08,Diana,Headphones,Electronics,72673,10,North,726730
+2025-07-06,Mandy,Television,Electronics,16508,5,West,82540
+2025-07-08,Lisa,T-Shirt,Clothing,65642,4,South,262568
+2025-07-16,Benjamin,Dress,Clothing,22094,4,West,88376
+2025-08-01,Nicole,Oil Bottle,Grocery,5527,1,West,5527
+2025-08-20,Shelly,Bread,Grocery,21989,1,North,21989
+2025-07-30,Timothy,Shoes,Clothing,78413,5,West,392065
+2025-07-29,Brenda,Jeans,Clothing,76747,9,East,690723
+2025-08-04,Kristina,Mobile Phone,Electronics,70054,10,North,700540
+2025-08-29,Paul,T-Shirt,Clothing,51863,2,South,103726
+2025-08-01,Cindy,Sugar Pack,Grocery,36679,7,South,256753
+2025-07-27,Danielle,Sugar Pack,Grocery,41770,6,East,250620
+2025-08-08,Heidi,Oil Bottle,Grocery,35834,4,East,143336
+2025-08-16,Paul,Jeans,Clothing,60316,10,East,603160
+2025-08-28,Alyssa,Mobile Phone,Electronics,318,10,West,3180
+2025-08-10,Jacob,Laptop,Electronics,22795,7,West,159565
+2025-07-24,Megan,Dress,Clothing,10686,2,North,21372
+2025-07-03,Jennifer,Oil Bottle,Grocery,16226,6,West,97356
+2025-07-09,Tamara,Bread,Grocery,50742,3,North,152226
+2025-08-25,Susan,Washing Machine,Electronics,48609,4,West,194436
+2025-07-11,Dana,Mobile Phone,Electronics,2642,5,East,13210
+2025-07-18,Misty,Laptop,Electronics,39788,4,South,159152
+2025-08-16,Andrea,Shoes,Clothing,4872,5,West,24360
+2025-07-27,Natalie,Sugar Pack,Grocery,27455,1,South,27455
+2025-07-19,David,Oil Bottle,Grocery,14591,5,West,72955
+2025-07-29,Michelle,Television,Electronics,25447,10,South,254470
+2025-07-21,Brian,Television,Electronics,16859,2,South,33718
+2025-08-12,Joshua,Dress,Clothing,29929,9,East,269361
+2025-07-10,Jade,Laptop,Electronics,69903,10,East,699030
+2025-08-26,Stephanie,Sugar Pack,Grocery,59547,1,West,59547
+2025-08-17,Whitney,Rice Bag,Grocery,42386,7,West,296702
+2025-08-02,Sharon,T-Shirt,Clothing,67983,8,West,543864
+2025-08-25,Shane,Dress,Clothing,5747,4,North,22988
+2025-07-14,Misty,Jacket,Clothing,69834,8,East,558672
+2025-08-15,Jeremiah,Washing Machine,Electronics,25557,6,North,153342
+2025-08-18,Christopher,Rice Bag,Grocery,29623,7,North,207361
+2025-08-23,Dean,Mobile Phone,Electronics,21608,6,East,129648
+2025-08-08,Todd,Laptop,Electronics,3703,8,West,29624
+2025-07-30,Sharon,Television,Electronics,43867,5,South,219335
+2025-07-03,Michael,Washing Machine,Electronics,31292,6,North,187752
+2025-08-18,Theresa,Dress,Clothing,31080,2,West,62160
+2025-08-03,Michael,Washing Machine,Electronics,75932,2,North,151864
+2025-08-23,Carrie,Laptop,Electronics,49515,6,North,297090
+2025-08-05,Tara,Laptop,Electronics,57973,1,East,57973
+2025-08-24,Sean,Oil Bottle,Grocery,8673,2,North,17346
+2025-07-07,Karen,Rice Bag,Grocery,38705,7,West,270935
+2025-08-23,Cheryl,Television,Electronics,53934,4,North,215736
+2025-08-02,William,Jacket,Clothing,60894,7,North,426258
+2025-07-31,Nathan,T-Shirt,Clothing,59566,9,East,536094
+2025-08-25,Andrea,Milk Packet,Grocery,14206,2,North,28412
+2025-07-08,John,Rice Bag,Grocery,77760,4,South,311040
+2025-07-22,Erica,Sugar Pack,Grocery,33641,6,West,201846
+2025-08-11,Angela,Dress,Clothing,58327,3,South,174981
+2025-07-01,Amber,Laptop,Electronics,7978,3,East,23934
+2025-07-29,Shawn,Oil Bottle,Grocery,67306,6,East,403836
+2025-07-03,Michael,Sugar Pack,Grocery,19137,3,West,57411
+2025-08-22,Melissa,Dress,Clothing,44994,5,East,224970
+2025-08-08,Denise,Television,Electronics,76915,3,North,230745
+2025-07-04,Michael,Television,Electronics,73378,1,West,73378
+2025-07-08,Dale,Jeans,Clothing,26313,4,North,105252
+2025-07-06,Joshua,Jeans,Clothing,62404,8,East,499232
+2025-08-21,Justin,Sugar Pack,Grocery,44045,10,East,440450
+2025-08-08,Marissa,Shoes,Clothing,21320,2,West,42640
+2025-08-02,Dawn,Washing Machine,Electronics,28807,1,South,28807
+2025-08-04,Megan,Milk Packet,Grocery,61199,10,South,611990
+2025-07-12,Sarah,Washing Machine,Electronics,43502,7,South,304514
+2025-08-25,Audrey,Jeans,Clothing,931,6,North,5586
+2025-07-20,Lori,Headphones,Electronics,3984,9,North,35856
+2025-07-17,Rachel,Headphones,Electronics,57775,4,East,231100
+2025-07-13,Nathan,Laptop,Electronics,26149,4,East,104596
+2025-07-13,Antonio,Mobile Phone,Electronics,34390,3,East,103170
+2025-08-17,Erika,Milk Packet,Grocery,23451,4,North,93804
+2025-07-14,Miranda,Headphones,Electronics,13313,1,South,13313
+2025-08-24,Nancy,T-Shirt,Clothing,44402,4,East,177608
+2025-08-03,Karen,Jeans,Clothing,48499,6,South,290994
+2025-07-18,Tiffany,Sugar Pack,Grocery,56898,2,North,113796
+2025-07-12,Cheryl,Mobile Phone,Electronics,24906,4,West,99624
+2025-07-02,April,Bread,Grocery,41724,10,West,417240
+2025-07-14,Jamie,Milk Packet,Grocery,6104,10,South,61040
+2025-08-14,Jerry,Bread,Grocery,19522,6,South,117132
+2025-08-19,Robert,Headphones,Electronics,16625,9,West,149625
+2025-08-03,Timothy,Laptop,Electronics,61741,10,North,617410
+2025-08-07,Meagan,Television,Electronics,50921,9,East,458289
+2025-08-25,Tina,Dress,Clothing,60902,3,East,182706
+2025-07-13,Christopher,Bread,Grocery,68925,8,West,551400
+2025-07-06,Samantha,Shoes,Clothing,76227,7,North,533589
+2025-07-24,Michael,Mobile Phone,Electronics,26657,8,South,213256
+2025-08-20,Brett,Jeans,Clothing,40157,7,West,281099
+2025-07-12,Daniel,Milk Packet,Grocery,49084,5,North,245420
+2025-07-27,Nathan,Laptop,Electronics,38722,8,East,309776
+2025-07-10,Nathaniel,Television,Electronics,5442,8,East,43536
+2025-07-12,Amy,Jacket,Clothing,61332,7,West,429324
+2025-08-20,Colleen,Jacket,Clothing,41602,5,West,208010
+2025-08-29,Austin,Mobile Phone,Electronics,57942,4,East,231768
+2025-07-30,Donald,Rice Bag,Grocery,47117,2,East,94234
+2025-07-26,Natalie,Sugar Pack,Grocery,71700,2,East,143400
+2025-07-22,Patrick,Laptop,Electronics,15593,2,East,31186
+2025-08-17,Stephanie,Television,Electronics,26304,6,South,157824
+2025-08-02,James,Bread,Grocery,32821,5,East,164105
+2025-07-03,Evan,Television,Electronics,18120,9,East,163080
+2025-07-09,Stephanie,Headphones,Electronics,36992,6,West,221952
+2025-07-22,Rachael,Dress,Clothing,1608,8,South,12864
+2025-07-06,Jessica,Jeans,Clothing,29793,4,West,119172
+2025-07-31,Andre,Television,Electronics,76989,9,West,692901
+2025-08-26,Victor,Oil Bottle,Grocery,44700,2,East,89400
+2025-08-29,James,Washing Machine,Electronics,54797,4,West,219188
+2025-08-09,Stephanie,Dress,Clothing,3995,6,South,23970
+2025-08-13,Maria,Milk Packet,Grocery,40101,1,West,40101
+2025-07-06,Jose,Bread,Grocery,44591,4,West,178364
+2025-07-09,Robin,Jacket,Clothing,70514,5,East,352570
+2025-08-19,Beth,Rice Bag,Grocery,74443,1,South,74443
+2025-07-08,Mary,Headphones,Electronics,74523,10,West,745230
+2025-08-24,Heather,Jeans,Clothing,51251,2,West,102502
+2025-07-26,Anna,Washing Machine,Electronics,14289,6,West,85734
+2025-07-13,Christopher,Bread,Grocery,12271,3,North,36813
+2025-07-02,Matthew,Sugar Pack,Grocery,23333,1,West,23333
+2025-08-14,Nicholas,Mobile Phone,Electronics,26133,2,West,52266
+2025-07-05,David,Jeans,Clothing,30594,5,North,152970
+2025-07-24,Mary,T-Shirt,Clothing,48369,9,North,435321
+2025-08-04,Brian,Headphones,Electronics,53902,7,South,377314
+2025-08-19,Thomas,Mobile Phone,Electronics,70363,7,West,492541
+2025-08-23,Angela,Rice Bag,Grocery,51036,4,South,204144
+2025-07-24,Ryan,Headphones,Electronics,56699,8,South,453592
+2025-07-03,Candace,Sugar Pack,Grocery,40723,10,South,407230
+2025-07-21,David,Oil Bottle,Grocery,36152,4,North,144608
+2025-08-08,Matthew,Washing Machine,Electronics,8434,7,South,59038
+2025-08-25,Sarah,Bread,Grocery,74659,8,West,597272
+2025-08-23,Alexander,Dress,Clothing,5172,2,East,10344
+2025-07-11,Daniel,Oil Bottle,Grocery,45503,5,West,227515
+2025-07-24,Melissa,Milk Packet,Grocery,54451,4,South,217804
+2025-08-03,Elizabeth,Oil Bottle,Grocery,60058,7,South,420406
+2025-08-18,Deborah,Sugar Pack,Grocery,12571,7,North,87997
+2025-08-09,Mark,Mobile Phone,Electronics,35934,9,East,323406
+2025-08-03,John,Rice Bag,Grocery,28526,8,West,228208
+2025-08-20,Zachary,Rice Bag,Grocery,48380,2,North,96760
+2025-08-16,Laura,Bread,Grocery,53802,8,South,430416
+2025-08-26,Patrick,Jeans,Clothing,66380,1,West,66380
+2025-08-13,Caroline,Laptop,Electronics,60592,7,East,424144
+2025-08-02,Dylan,Oil Bottle,Grocery,25530,7,North,178710
+2025-08-07,Sandra,Headphones,Electronics,15081,3,East,45243
+2025-08-07,Brenda,Oil Bottle,Grocery,63588,8,North,508704
+2025-07-04,Evan,Television,Electronics,31807,8,South,254456
+2025-07-15,Daryl,Shoes,Clothing,21200,3,North,63600
+2025-07-14,Cassandra,Rice Bag,Grocery,23280,5,North,116400
+2025-08-15,Lindsay,Oil Bottle,Grocery,22129,2,North,44258
+2025-07-05,Stacie,Bread,Grocery,20169,8,East,161352
+2025-08-16,Donna,Mobile Phone,Electronics,4564,9,South,41076
+2025-08-01,Anna,T-Shirt,Clothing,68584,2,West,137168
+2025-07-25,Matthew,Bread,Grocery,58244,1,North,58244
+2025-07-07,Caroline,Washing Machine,Electronics,26492,4,East,105968
+2025-07-15,Pamela,Mobile Phone,Electronics,12028,1,West,12028
+2025-07-29,Mitchell,Laptop,Electronics,44236,4,North,176944
+2025-07-06,Jonathon,Laptop,Electronics,22054,3,North,66162
+2025-07-21,Susan,Dress,Clothing,14164,6,East,84984
+2025-08-13,Joyce,Milk Packet,Grocery,27197,9,West,244773
+2025-07-27,Jennifer,T-Shirt,Clothing,30512,4,North,122048
+2025-07-17,Thomas,Shoes,Clothing,22806,1,West,22806
+2025-07-14,Jeffrey,Bread,Grocery,1620,7,South,11340
+2025-07-11,Joseph,Jeans,Clothing,8702,5,East,43510
+2025-07-14,Cheryl,Laptop,Electronics,28697,7,East,200879
+2025-07-14,Katherine,Oil Bottle,Grocery,13394,9,South,120546
+2025-08-18,Steven,T-Shirt,Clothing,78675,6,West,472050
+2025-07-20,Kathryn,Milk Packet,Grocery,43572,3,East,130716
+2025-07-30,Donald,Oil Bottle,Grocery,8899,6,North,53394
+2025-07-31,Barbara,Sugar Pack,Grocery,58889,7,South,412223
+2025-07-10,Samantha,Sugar Pack,Grocery,1792,4,North,7168
+2025-07-27,Kathryn,Rice Bag,Grocery,40531,4,West,162124
+2025-08-15,Greg,Television,Electronics,10455,1,South,10455
+2025-08-15,Michael,Jacket,Clothing,38927,4,South,155708
+2025-08-17,Carly,Jeans,Clothing,5018,4,West,20072
+2025-08-10,Cameron,Bread,Grocery,17648,5,East,88240
+2025-07-20,Hannah,Rice Bag,Grocery,68321,7,East,478247
+2025-08-22,Bryan,Mobile Phone,Electronics,43470,6,South,260820
+2025-07-01,Laurie,Television,Electronics,7137,4,South,28548
+2025-07-15,Breanna,Oil Bottle,Grocery,68400,6,South,410400
+2025-07-06,Melissa,T-Shirt,Clothing,8519,8,North,68152
+2025-07-28,Lauren,Laptop,Electronics,18600,4,South,74400
+2025-07-15,Patricia,Mobile Phone,Electronics,77727,9,South,699543
+2025-07-17,Daniel,Television,Electronics,10295,7,West,72065
+2025-07-14,Alicia,Jeans,Clothing,25941,4,West,103764
+2025-08-24,Anthony,Television,Electronics,32682,5,East,163410
+2025-08-01,Kara,Oil Bottle,Grocery,26448,5,West,132240
+2025-08-26,Paul,Headphones,Electronics,52248,7,South,365736
+2025-07-30,Patrick,Jacket,Clothing,55453,9,West,499077
+2025-07-02,Lisa,Washing Machine,Electronics,2646,7,West,18522
+2025-08-24,Kaitlyn,Headphones,Electronics,78061,9,South,702549
+2025-07-16,Timothy,Milk Packet,Grocery,33773,7,West,236411
+2025-08-21,Cynthia,Jacket,Clothing,37172,7,West,260204
+2025-07-19,Anna,Headphones,Electronics,17961,8,South,143688
+2025-07-24,Jessica,Mobile Phone,Electronics,597,1,East,597
+2025-07-30,Michael,Jacket,Clothing,54552,7,East,381864
+2025-07-26,Samantha,Jacket,Clothing,40395,10,North,403950
+2025-07-11,William,T-Shirt,Clothing,16365,7,South,114555
+2025-08-06,Ralph,Washing Machine,Electronics,33507,6,West,201042
+2025-07-03,Larry,Bread,Grocery,7613,7,West,53291
+2025-07-22,Jeffrey,Milk Packet,Grocery,31815,8,North,254520
+2025-08-08,Abigail,T-Shirt,Clothing,19433,5,West,97165
+2025-08-06,Daniel,Milk Packet,Grocery,33380,4,South,133520
+2025-08-05,Amy,Laptop,Electronics,12148,7,West,85036
+2025-08-05,Natasha,Sugar Pack,Grocery,10581,9,South,95229
+2025-08-11,Sean,Jeans,Clothing,56000,5,East,280000
+2025-08-25,Sharon,Sugar Pack,Grocery,50222,10,East,502220
+2025-08-04,Jacqueline,Oil Bottle,Grocery,11698,2,East,23396
+2025-07-16,Isaac,Headphones,Electronics,27512,7,East,192584
+2025-08-22,Cheryl,Mobile Phone,Electronics,64501,1,North,64501
+2025-08-22,Amanda,Washing Machine,Electronics,68857,7,East,481999
+2025-08-15,Kristin,Oil Bottle,Grocery,22415,3,East,67245
+2025-07-26,Kyle,Mobile Phone,Electronics,26004,8,South,208032
+2025-08-19,Nancy,Rice Bag,Grocery,59119,10,South,591190
+2025-07-24,Jeffrey,Mobile Phone,Electronics,7780,3,South,23340
+2025-08-29,Cameron,Jacket,Clothing,57817,10,North,578170
+2025-08-14,Maria,Milk Packet,Grocery,10510,5,North,52550
+2025-07-29,Dustin,T-Shirt,Clothing,36325,2,East,72650
+2025-07-20,Shane,Television,Electronics,30823,8,West,246584
+2025-08-07,Charles,Rice Bag,Grocery,1296,1,East,1296
+2025-07-04,Valerie,Television,Electronics,5536,2,South,11072
+2025-08-13,Denise,Rice Bag,Grocery,49289,10,East,492890
+2025-08-18,Jasmine,Jacket,Clothing,44225,10,West,442250
+2025-08-03,William,Shoes,Clothing,45017,6,South,270102
+2025-08-01,Jason,Jacket,Clothing,49652,10,North,496520
+2025-07-29,Erika,Shoes,Clothing,13180,1,West,13180
+2025-08-06,Lisa,Oil Bottle,Grocery,18251,1,North,18251
+2025-08-09,Brenda,Bread,Grocery,32626,6,West,195756
+2025-07-23,Kelly,Oil Bottle,Grocery,67540,7,South,472780
+2025-07-15,Latoya,Headphones,Electronics,2229,6,North,13374
+2025-07-12,Robert,Bread,Grocery,58286,4,West,233144
+2025-08-06,Briana,Dress,Clothing,10715,6,West,64290
+2025-07-17,Ryan,T-Shirt,Clothing,50494,5,South,252470
+2025-08-11,Stanley,Milk Packet,Grocery,68214,10,North,682140
+2025-08-21,David,Washing Machine,Electronics,11465,5,West,57325
+2025-07-30,Jeremy,Washing Machine,Electronics,15212,8,South,121696
+2025-08-05,Gina,Mobile Phone,Electronics,22388,2,North,44776
+2025-07-21,Nancy,T-Shirt,Clothing,21052,6,West,126312
+2025-07-27,Brian,Jeans,Clothing,33817,8,North,270536
+2025-07-07,Jessica,Milk Packet,Grocery,70113,8,North,560904
+2025-08-15,Jean,Bread,Grocery,29384,10,North,293840
+2025-08-23,Misty,Bread,Grocery,49465,7,West,346255
+2025-08-02,Alexandra,Mobile Phone,Electronics,34009,2,East,68018
+2025-07-23,Ashley,Laptop,Electronics,11733,6,South,70398
+2025-07-09,Jacqueline,Rice Bag,Grocery,75133,6,South,450798
+2025-07-21,Michael,Jacket,Clothing,75667,1,East,75667
+2025-07-03,Eddie,Television,Electronics,70252,4,West,281008
+2025-07-16,Christopher,Shoes,Clothing,47894,3,South,143682
+2025-07-20,Stephanie,Washing Machine,Electronics,1254,9,West,11286
+2025-08-12,Mark,Jeans,Clothing,38955,4,West,155820
+2025-07-22,Michaela,Oil Bottle,Grocery,19373,10,East,193730
+2025-07-22,Jessica,Laptop,Electronics,78546,6,East,471276
+2025-07-21,Crystal,Rice Bag,Grocery,35891,10,West,358910
+2025-08-27,Amanda,Milk Packet,Grocery,64933,5,West,324665
+2025-07-15,Christopher,Headphones,Electronics,20064,4,South,80256
+2025-07-05,Christopher,Rice Bag,Grocery,23514,8,West,188112
+2025-07-23,Joseph,Jeans,Clothing,2876,9,West,25884
+2025-07-24,Tony,Jacket,Clothing,62102,6,West,372612
+2025-08-21,Rhonda,T-Shirt,Clothing,69235,5,East,346175
+2025-07-22,Rachel,Milk Packet,Grocery,71878,7,North,503146
+2025-07-20,Matthew,Headphones,Electronics,76122,1,East,76122
+2025-08-20,Nicole,Jeans,Clothing,75699,3,West,227097
+2025-07-25,William,Oil Bottle,Grocery,38202,3,South,114606
+2025-07-30,Matthew,Mobile Phone,Electronics,1247,6,North,7482
+2025-07-08,Nathan,Milk Packet,Grocery,49405,7,South,345835
+2025-07-05,Scott,Laptop,Electronics,46657,8,South,373256
+2025-07-25,Joseph,Laptop,Electronics,67609,6,West,405654
+2025-07-01,Jason,Washing Machine,Electronics,32162,1,North,32162
+2025-08-27,Steven,Washing Machine,Electronics,64095,5,South,320475
+2025-08-16,Tamara,Oil Bottle,Grocery,11795,8,West,94360
+2025-08-18,Mitchell,Jacket,Clothing,48195,1,North,48195
+2025-07-18,Gordon,Laptop,Electronics,16047,8,South,128376
+2025-07-30,Catherine,Television,Electronics,75151,10,West,751510
+2025-07-23,Tina,T-Shirt,Clothing,77759,3,West,233277
+2025-07-19,James,Jacket,Clothing,39157,10,South,391570
+2025-08-19,Brandon,Headphones,Electronics,8372,9,South,75348
+2025-08-23,Barbara,T-Shirt,Clothing,51665,9,West,464985
+2025-07-12,Spencer,Television,Electronics,76690,9,North,690210
+2025-08-10,Brandon,Laptop,Electronics,23730,10,South,237300
+2025-07-12,John,Television,Electronics,58669,6,North,352014
+2025-07-28,Danielle,Mobile Phone,Electronics,75427,4,South,301708
+2025-07-30,Tina,Television,Electronics,33704,1,North,33704
+2025-07-21,Pamela,Television,Electronics,39185,6,South,235110
+2025-08-27,Brandon,T-Shirt,Clothing,32600,5,North,163000
+2025-07-20,Roberto,Bread,Grocery,70055,8,South,560440
+2025-08-29,Christopher,Oil Bottle,Grocery,41067,9,East,369603
+2025-08-05,Jessica,Sugar Pack,Grocery,66974,4,North,267896
+2025-07-23,Phillip,Rice Bag,Grocery,31127,1,South,31127
+2025-07-02,Jessica,Headphones,Electronics,28258,3,South,84774
+2025-08-04,James,Bread,Grocery,36408,3,West,109224
+2025-07-17,Jason,Television,Electronics,33469,5,West,167345
+2025-08-22,Mariah,Milk Packet,Grocery,52486,8,North,419888
+2025-07-29,Jessica,Jacket,Clothing,18825,9,South,169425
+2025-08-02,Stephanie,Headphones,Electronics,25298,6,South,151788
+2025-07-14,Matthew,Jeans,Clothing,41515,7,West,290605
+2025-08-02,Stacy,Television,Electronics,32490,2,East,64980
+2025-07-19,Jonathan,Television,Electronics,14466,9,West,130194
+2025-07-05,Kevin,Headphones,Electronics,11712,6,East,70272
+2025-08-02,Christina,Jeans,Clothing,29641,5,North,148205
+2025-07-01,Stephanie,Washing Machine,Electronics,29177,7,North,204239
+2025-07-29,Craig,Mobile Phone,Electronics,69056,5,West,345280
+2025-08-04,Ruth,Television,Electronics,45781,10,East,457810
+2025-07-29,Kendra,Bread,Grocery,79671,2,North,159342
+2025-07-29,Melissa,Headphones,Electronics,51110,3,East,153330
+2025-07-09,Michael,Sugar Pack,Grocery,72358,10,West,723580
+2025-08-18,Erica,Dress,Clothing,16771,5,North,83855
+2025-07-19,Christopher,Sugar Pack,Grocery,20430,3,South,61290
+2025-07-19,Karen,Dress,Clothing,35094,1,East,35094
+2025-07-27,Robert,Milk Packet,Grocery,79833,7,West,558831
+2025-07-04,Brent,Washing Machine,Electronics,46449,8,East,371592
+2025-08-07,Michael,Jacket,Clothing,68285,4,East,273140
+2025-07-25,James,Rice Bag,Grocery,40113,7,East,280791
+2025-07-09,Julie,Laptop,Electronics,10102,4,North,40408
+2025-08-04,George,Television,Electronics,7575,2,East,15150
+2025-08-16,Mary,Oil Bottle,Grocery,1451,7,South,10157
+2025-08-28,Ryan,Jacket,Clothing,67553,9,North,607977
+2025-08-28,Linda,T-Shirt,Clothing,24977,1,West,24977
+2025-08-20,Bruce,Sugar Pack,Grocery,45277,4,North,181108
+2025-08-22,Katie,Oil Bottle,Grocery,22139,9,South,199251
+2025-07-12,Trevor,Laptop,Electronics,48160,3,East,144480
+2025-08-07,Michael,Washing Machine,Electronics,64997,7,South,454979
+2025-08-21,Corey,T-Shirt,Clothing,44346,4,North,177384
+2025-07-01,Marc,Shoes,Clothing,63374,5,East,316870
+2025-08-27,Maria,Laptop,Electronics,74609,7,South,522263
+2025-07-07,Amy,Dress,Clothing,4693,8,West,37544
+2025-08-03,Aaron,Headphones,Electronics,822,10,West,8220
+2025-07-19,Ashley,Shoes,Clothing,46435,2,North,92870
+2025-08-27,Jeremy,Jeans,Clothing,52749,6,North,316494
+2025-08-03,Jessica,Washing Machine,Electronics,64543,4,North,258172
+2025-08-11,Anthony,Sugar Pack,Grocery,20197,7,North,141379
+2025-07-20,James,T-Shirt,Clothing,20448,5,South,102240
+2025-07-28,Haley,Jacket,Clothing,49111,5,East,245555
+2025-08-10,Shannon,Jeans,Clothing,70360,5,North,351800
+2025-08-27,Michael,Jacket,Clothing,21261,3,East,63783
+2025-07-01,Steven,Oil Bottle,Grocery,811,6,South,4866
+2025-07-23,Joseph,Mobile Phone,Electronics,37392,1,South,37392
+2025-07-11,Terri,Jacket,Clothing,43462,1,South,43462
+2025-08-01,Christopher,Milk Packet,Grocery,62872,5,North,314360
+2025-08-10,Robert,Jacket,Clothing,72155,8,South,577240
+2025-08-20,Omar,Jacket,Clothing,65829,7,South,460803
+2025-08-15,Michelle,Laptop,Electronics,2822,3,South,8466
+2025-07-09,Gabriel,Dress,Clothing,1838,4,North,7352
+2025-07-17,Suzanne,Bread,Grocery,56367,10,North,563670
+2025-08-23,Juan,Jacket,Clothing,37990,5,West,189950
+2025-08-25,Patrick,Washing Machine,Electronics,32522,10,South,325220
+2025-07-27,Nicole,Sugar Pack,Grocery,24542,4,East,98168
+2025-08-13,Marc,Headphones,Electronics,32471,7,South,227297
+2025-08-02,Michael,T-Shirt,Clothing,65891,10,South,658910
+2025-08-17,Michelle,Television,Electronics,19543,4,North,78172
+2025-08-21,Michael,Washing Machine,Electronics,5078,5,South,25390
+2025-07-02,Shane,Washing Machine,Electronics,2364,10,South,23640
+2025-07-13,Dustin,Laptop,Electronics,49903,7,East,349321
+2025-07-06,Valerie,Milk Packet,Grocery,29118,6,West,174708
+2025-07-17,Cynthia,T-Shirt,Clothing,66878,7,North,468146
+2025-07-30,Anthony,T-Shirt,Clothing,35340,6,East,212040
+2025-08-06,Yolanda,Jacket,Clothing,32420,6,North,194520
+2025-07-13,Heidi,Laptop,Electronics,120,1,East,120
+2025-08-01,Fred,Headphones,Electronics,61923,5,North,309615
+2025-07-29,Karen,Jeans,Clothing,33114,8,East,264912
+2025-07-03,Judy,Shoes,Clothing,14668,2,North,29336
+2025-07-16,Jennifer,Sugar Pack,Grocery,17129,6,East,102774
+2025-07-05,Melissa,Bread,Grocery,77239,9,East,695151
+2025-07-04,Jesse,Headphones,Electronics,27579,10,West,275790
+2025-08-08,Kimberly,Laptop,Electronics,17152,10,North,171520
+2025-08-13,John,Television,Electronics,25010,4,West,100040
+2025-08-11,Marie,Laptop,Electronics,71691,10,East,716910
+2025-08-02,Linda,Jacket,Clothing,26526,9,South,238734
+2025-07-11,Diamond,Mobile Phone,Electronics,25177,7,East,176239
+2025-08-18,Rebecca,Bread,Grocery,48023,8,North,384184
+2025-08-02,Jennifer,T-Shirt,Clothing,63334,7,North,443338
+2025-08-06,Sharon,Television,Electronics,35983,3,East,107949
+2025-08-20,Jeffrey,Television,Electronics,8018,4,West,32072
+2025-08-17,David,Dress,Clothing,67353,2,South,134706
+2025-07-07,Charles,Dress,Clothing,50401,9,West,453609
+2025-08-11,James,Dress,Clothing,35635,4,South,142540
+2025-08-16,Rebecca,Mobile Phone,Electronics,75009,4,North,300036
+2025-08-12,Cory,Oil Bottle,Grocery,66086,9,East,594774
+2025-08-22,Julie,Jeans,Clothing,38894,5,North,194470
+2025-07-21,Jenna,Mobile Phone,Electronics,6028,9,South,54252
+2025-07-15,Justin,T-Shirt,Clothing,19466,5,South,97330
+2025-07-13,Sarah,T-Shirt,Clothing,32687,4,North,130748
+2025-08-29,Whitney,Headphones,Electronics,79369,6,East,476214
+2025-08-23,Andrea,Television,Electronics,34658,3,West,103974
+2025-07-02,George,Bread,Grocery,42600,1,North,42600
+2025-07-25,Jessica,Jeans,Clothing,36709,3,East,110127
+2025-07-14,Paul,Television,Electronics,76499,2,West,152998
+2025-07-09,Emma,Bread,Grocery,79262,9,South,713358
+2025-08-09,Caleb,Jeans,Clothing,42551,5,South,212755
+2025-07-25,Grant,Oil Bottle,Grocery,20450,8,South,163600
+2025-08-27,Kathleen,Oil Bottle,Grocery,48368,3,West,145104
+2025-07-12,Samantha,Washing Machine,Electronics,23841,8,South,190728
+2025-08-27,Anita,Mobile Phone,Electronics,74716,8,South,597728
+2025-08-16,Brian,Bread,Grocery,2808,5,South,14040
+2025-08-28,William,Washing Machine,Electronics,79718,4,North,318872
+2025-07-18,Jonathan,Laptop,Electronics,55938,4,West,223752
+2025-07-14,Brenda,Oil Bottle,Grocery,13187,9,South,118683
+2025-07-17,Lawrence,Rice Bag,Grocery,79124,2,West,158248
+2025-08-02,Zachary,T-Shirt,Clothing,14472,1,North,14472
+2025-07-25,Nathaniel,Mobile Phone,Electronics,11007,5,South,55035
+2025-07-31,John,Sugar Pack,Grocery,1819,1,North,1819
+2025-08-09,Michael,Bread,Grocery,11186,4,South,44744
+2025-08-14,Jennifer,Dress,Clothing,58288,3,East,174864
+2025-08-24,Tiffany,Jacket,Clothing,20302,4,North,81208
+2025-07-10,Lori,Bread,Grocery,71302,2,North,142604
+2025-08-22,Joseph,Laptop,Electronics,71437,5,North,357185
+2025-07-28,Melissa,Oil Bottle,Grocery,18640,1,South,18640
+2025-07-01,Valerie,Mobile Phone,Electronics,56035,7,South,392245
+2025-08-16,Kimberly,Shoes,Clothing,29657,7,North,207599
+2025-08-09,Cheryl,Jeans,Clothing,14485,4,North,57940
+2025-07-02,Christopher,Shoes,Clothing,10049,10,East,100490
+2025-07-25,Jennifer,Headphones,Electronics,11165,1,South,11165
+2025-08-22,Theresa,Washing Machine,Electronics,69581,6,South,417486
+2025-08-02,Erin,Oil Bottle,Grocery,19739,5,East,98695
+2025-08-27,Thomas,T-Shirt,Clothing,35582,8,East,284656
+2025-08-18,Erica,T-Shirt,Clothing,335,3,South,1005
+2025-07-22,Amy,Jeans,Clothing,51246,8,West,409968
+2025-08-12,Nathan,Laptop,Electronics,75789,7,East,530523
+2025-07-22,Lauren,Laptop,Electronics,42393,3,South,127179
+2025-08-29,Alexis,Shoes,Clothing,41903,8,West,335224
+2025-08-24,Debbie,Jacket,Clothing,78921,6,South,473526
+2025-08-22,Reginald,Milk Packet,Grocery,50274,7,West,351918
+2025-08-17,Stephanie,Sugar Pack,Grocery,64616,9,South,581544
+2025-07-03,Deanna,T-Shirt,Clothing,76198,7,South,533386
+2025-08-14,Crystal,Rice Bag,Grocery,30877,6,North,185262
+2025-08-03,Emily,Laptop,Electronics,47550,9,West,427950
+2025-07-04,Douglas,Laptop,Electronics,7858,6,East,47148
+2025-07-06,Timothy,Headphones,Electronics,60394,3,West,181182
+2025-07-05,Samuel,Mobile Phone,Electronics,29487,1,South,29487
+2025-08-22,Marcia,Mobile Phone,Electronics,49524,1,West,49524
+2025-07-10,Megan,T-Shirt,Clothing,13944,10,North,139440
+2025-07-20,Robert,Dress,Clothing,20782,1,South,20782
+2025-08-24,Sharon,Jeans,Clothing,10403,4,North,41612
+2025-07-04,Lisa,Television,Electronics,54640,3,South,163920
+2025-07-09,Chris,Jeans,Clothing,69183,5,West,345915
+2025-07-26,Eric,Shoes,Clothing,58242,1,East,58242
+2025-08-27,Amy,Mobile Phone,Electronics,7914,1,South,7914
+2025-07-16,Phillip,Milk Packet,Grocery,1474,7,West,10318
+2025-08-17,Tammy,Oil Bottle,Grocery,72684,5,East,363420
+2025-08-16,Jessica,Milk Packet,Grocery,55581,3,East,166743
+2025-07-27,Alexandra,Television,Electronics,49537,3,South,148611
+2025-08-17,Karen,Dress,Clothing,7389,4,West,29556
+2025-07-17,Shawna,Television,Electronics,79359,2,West,158718
+2025-08-20,Vanessa,Shoes,Clothing,53147,7,South,372029
+2025-07-16,Tina,Headphones,Electronics,55653,4,East,222612
+2025-07-23,Scott,Laptop,Electronics,10248,6,East,61488
+2025-07-07,Maureen,Mobile Phone,Electronics,37039,3,North,111117
+2025-08-29,Katelyn,Mobile Phone,Electronics,78314,1,East,78314
+2025-08-08,Travis,Television,Electronics,26490,1,South,26490
+2025-08-19,Alisha,T-Shirt,Clothing,74777,10,North,747770
+2025-08-26,Mary,Oil Bottle,Grocery,6037,1,East,6037
+2025-07-19,Rachel,Headphones,Electronics,1161,6,East,6966
+2025-08-09,Tammie,Dress,Clothing,25593,6,West,153558
+2025-07-22,Aaron,Bread,Grocery,17026,2,East,34052
+2025-08-17,David,Dress,Clothing,13288,9,South,119592
+2025-08-25,Kevin,Television,Electronics,50134,8,North,401072
+2025-08-26,Wayne,Jeans,Clothing,19912,8,North,159296
+2025-08-19,Linda,Rice Bag,Grocery,30402,4,South,121608
+2025-08-26,Lisa,Milk Packet,Grocery,65798,9,East,592182
+2025-08-07,Teresa,Jeans,Clothing,44486,5,East,222430
+2025-08-20,Stephanie,Oil Bottle,Grocery,5294,7,South,37058
+2025-07-09,Stephanie,Television,Electronics,79594,2,South,159188
+2025-07-11,Robert,Oil Bottle,Grocery,12817,1,South,12817
+2025-07-14,Chelsea,Dress,Clothing,11475,8,North,91800
+2025-07-05,Michelle,Shoes,Clothing,22295,5,South,111475
+2025-08-21,Kimberly,Headphones,Electronics,75614,6,East,453684
+2025-08-26,Derek,Laptop,Electronics,23536,8,East,188288
+2025-07-23,Matthew,Shoes,Clothing,57989,3,North,173967
+2025-07-25,David,Oil Bottle,Grocery,5239,6,East,31434
+2025-07-03,Jeremy,Jacket,Clothing,16956,8,East,135648
+2025-08-02,Jean,Sugar Pack,Grocery,41160,6,North,246960
+2025-08-10,Julia,Oil Bottle,Grocery,66364,8,East,530912
+2025-07-01,Daniel,Rice Bag,Grocery,7528,4,North,30112
+2025-08-12,Seth,Laptop,Electronics,38147,7,South,267029
+2025-08-28,Monica,Oil Bottle,Grocery,9615,4,West,38460
+2025-08-03,Christopher,T-Shirt,Clothing,45785,8,West,366280
+2025-08-25,John,Sugar Pack,Grocery,60979,2,North,121958
+2025-07-23,Antonio,Laptop,Electronics,52078,7,South,364546
+2025-07-20,Thomas,Shoes,Clothing,8500,6,East,51000
+2025-08-08,Kristy,Oil Bottle,Grocery,27920,8,North,223360
+2025-07-28,Jessica,Jacket,Clothing,5067,9,South,45603
+2025-08-21,Katherine,Jeans,Clothing,28029,6,North,168174
+2025-08-14,Wesley,Oil Bottle,Grocery,8228,6,West,49368
+2025-08-10,Michael,Jeans,Clothing,7138,4,North,28552
+2025-07-05,Mary,Oil Bottle,Grocery,35419,5,South,177095
+2025-07-28,Timothy,Mobile Phone,Electronics,9127,5,West,45635
+2025-08-16,Albert,Headphones,Electronics,59218,7,South,414526
+2025-07-17,Evan,Bread,Grocery,24177,1,North,24177
+2025-08-18,Kara,Shoes,Clothing,38965,3,South,116895
+2025-08-07,Nathan,Jacket,Clothing,63177,8,South,505416
+2025-07-09,Julie,Oil Bottle,Grocery,46540,10,West,465400
+2025-08-21,Lori,Television,Electronics,78316,4,North,313264
+2025-08-09,Jacob,Sugar Pack,Grocery,19005,6,East,114030
+2025-07-03,Kimberly,Mobile Phone,Electronics,60167,3,West,180501
+2025-08-08,Mario,T-Shirt,Clothing,53315,5,North,266575
+2025-08-19,Matthew,Jeans,Clothing,58944,10,North,589440
+2025-07-17,Dominic,Mobile Phone,Electronics,24646,7,South,172522
+2025-07-23,Timothy,Oil Bottle,Grocery,28379,6,South,170274
+2025-08-13,Jerry,Television,Electronics,1933,6,East,11598
+2025-07-08,Leah,Headphones,Electronics,40284,9,North,362556
+2025-07-10,Paula,Oil Bottle,Grocery,59818,7,West,418726
+2025-08-12,Kenneth,Shoes,Clothing,71152,7,East,498064
+2025-07-04,Anthony,Mobile Phone,Electronics,60188,7,East,421316
+2025-07-06,Ana,Television,Electronics,78023,3,West,234069
+2025-07-29,Andrew,Shoes,Clothing,57393,5,North,286965
+2025-07-04,Andrew,Laptop,Electronics,11799,1,West,11799
+2025-07-03,Jessica,Washing Machine,Electronics,71449,2,West,142898
+2025-08-23,Emily,Sugar Pack,Grocery,4327,5,West,21635
+2025-07-22,Angela,Mobile Phone,Electronics,59639,9,West,536751
+2025-08-25,Mark,Mobile Phone,Electronics,61598,2,East,123196
+2025-07-22,Catherine,Jacket,Clothing,51929,1,East,51929
+2025-08-06,Jane,Television,Electronics,37222,5,East,186110
+2025-08-16,Catherine,Jacket,Clothing,31711,1,West,31711
+2025-08-10,Christopher,Laptop,Electronics,3490,3,East,10470
+2025-07-25,Kevin,Sugar Pack,Grocery,41661,6,South,249966
+2025-08-15,Thomas,Oil Bottle,Grocery,31747,9,West,285723
+2025-08-04,Jared,Television,Electronics,51602,1,West,51602
+2025-08-26,James,Washing Machine,Electronics,22819,7,East,159733
+2025-08-16,Abigail,Milk Packet,Grocery,57381,4,North,229524
+2025-07-13,Alexander,Milk Packet,Grocery,66143,2,West,132286
+2025-08-08,Cynthia,Bread,Grocery,72520,3,East,217560
+2025-07-27,Christopher,Laptop,Electronics,12274,1,West,12274
+2025-08-19,Daniel,Television,Electronics,20110,1,North,20110
+2025-08-11,Rhonda,Oil Bottle,Grocery,3364,3,West,10092
+2025-07-13,Mark,Bread,Grocery,24502,4,South,98008
+2025-07-09,Mark,Jeans,Clothing,70228,4,West,280912
+2025-07-26,Regina,T-Shirt,Clothing,36090,2,South,72180
+2025-07-02,Lisa,Rice Bag,Grocery,75987,2,North,151974
+2025-07-23,Ricky,Dress,Clothing,16130,2,South,32260
+2025-08-15,Tim,Shoes,Clothing,23725,2,North,47450
+2025-08-24,Deanna,Shoes,Clothing,27309,7,North,191163
+2025-07-26,Karen,T-Shirt,Clothing,54280,2,West,108560
+2025-07-18,Bradley,Rice Bag,Grocery,27613,7,West,193291
+2025-07-25,Marie,Jacket,Clothing,21166,3,East,63498
+2025-07-10,Terri,Mobile Phone,Electronics,74406,10,North,744060
+2025-07-30,Tyler,Headphones,Electronics,45503,8,North,364024
+2025-07-08,Charles,Television,Electronics,33407,2,South,66814
+2025-08-01,Kelly,Rice Bag,Grocery,70298,1,South,70298
+2025-08-21,David,Headphones,Electronics,15095,4,North,60380
+2025-07-08,Drew,Jeans,Clothing,28854,2,South,57708
+2025-07-07,Tammy,Shoes,Clothing,63170,4,North,252680
+2025-08-09,Mark,Dress,Clothing,38627,8,West,309016
+2025-07-01,Kyle,Dress,Clothing,52471,4,East,209884
+2025-07-29,Tina,Mobile Phone,Electronics,36892,7,North,258244
+2025-08-29,James,Sugar Pack,Grocery,40890,3,South,122670
+2025-08-12,Jeremy,Oil Bottle,Grocery,56865,8,West,454920
+2025-08-23,Emily,Bread,Grocery,41829,10,North,418290
+2025-07-02,Courtney,Oil Bottle,Grocery,56320,4,East,225280
+2025-07-09,William,T-Shirt,Clothing,58954,3,North,176862
+2025-08-19,Brittney,Bread,Grocery,76972,7,East,538804
+2025-08-03,Luke,Sugar Pack,Grocery,46220,7,North,323540
+2025-08-10,Natalie,Mobile Phone,Electronics,42344,7,South,296408
+2025-08-25,Jacob,Jeans,Clothing,9571,4,East,38284
+2025-08-01,Joseph,Jeans,Clothing,41265,2,North,82530
+2025-08-24,Erica,T-Shirt,Clothing,43155,4,West,172620
+2025-07-25,Lindsay,Bread,Grocery,30543,9,North,274887
+2025-07-30,Eric,Shoes,Clothing,78929,4,South,315716
+2025-07-23,Jennifer,Television,Electronics,36494,10,North,364940
+2025-07-15,Henry,Oil Bottle,Grocery,57093,6,East,342558
+2025-07-14,Willie,Mobile Phone,Electronics,6559,8,West,52472
+2025-08-28,Carolyn,Headphones,Electronics,55262,2,North,110524
+2025-08-17,Amanda,Jeans,Clothing,78880,6,West,473280
+2025-08-04,Andrew,Television,Electronics,2837,5,North,14185
+2025-08-08,Eric,Sugar Pack,Grocery,659,8,East,5272
+2025-08-07,Andrea,Washing Machine,Electronics,4900,9,North,44100
+2025-07-18,Teresa,T-Shirt,Clothing,9153,8,North,73224
+2025-08-24,Angela,Shoes,Clothing,36052,6,East,216312
+2025-08-09,Amanda,T-Shirt,Clothing,72985,6,West,437910
+2025-08-27,Kristin,Rice Bag,Grocery,51604,5,West,258020
+2025-08-07,Scott,T-Shirt,Clothing,49058,10,North,490580
+2025-08-27,Shannon,Mobile Phone,Electronics,6319,1,South,6319
+2025-08-08,Daniel,Headphones,Electronics,57155,4,South,228620
+2025-07-20,Kristen,Mobile Phone,Electronics,48399,9,North,435591
+2025-08-02,Mitchell,Rice Bag,Grocery,34087,1,North,34087
+2025-08-26,Sarah,Headphones,Electronics,9885,5,East,49425
+2025-07-22,Daniel,Sugar Pack,Grocery,49799,5,South,248995
+2025-07-31,Christopher,Television,Electronics,60434,2,South,120868
+2025-07-08,Cassidy,Jeans,Clothing,76613,7,West,536291
+2025-08-27,Robert,Rice Bag,Grocery,68438,9,South,615942
+2025-08-20,Lance,Oil Bottle,Grocery,64288,5,East,321440
+2025-08-29,Eric,Oil Bottle,Grocery,29650,2,East,59300
+2025-08-26,Tiffany,T-Shirt,Clothing,46319,9,South,416871
+2025-08-01,Dustin,Milk Packet,Grocery,10275,2,West,20550
+2025-07-27,Lisa,Mobile Phone,Electronics,1770,4,West,7080
+2025-08-24,John,Jeans,Clothing,63966,2,East,127932
+2025-08-25,David,Television,Electronics,69209,9,East,622881
+2025-08-18,Zachary,Jacket,Clothing,20234,9,North,182106
+2025-08-29,Anita,Mobile Phone,Electronics,47713,7,West,333991
+2025-07-07,Jonathan,Sugar Pack,Grocery,26660,7,South,186620
+2025-08-05,Andrea,Headphones,Electronics,55505,3,East,166515
+2025-08-04,Danielle,Rice Bag,Grocery,19355,8,North,154840
+2025-08-10,Mckenzie,Rice Bag,Grocery,31581,1,West,31581
+2025-07-14,Steven,Headphones,Electronics,3796,8,West,30368
+2025-08-29,Maria,Shoes,Clothing,15559,9,North,140031
+2025-07-30,Meghan,Jacket,Clothing,27845,3,West,83535
+2025-08-23,Eric,Oil Bottle,Grocery,66624,6,North,399744
+2025-08-05,Jamie,Shoes,Clothing,48517,2,North,97034
+2025-08-17,Monica,Oil Bottle,Grocery,55439,4,East,221756
+2025-08-09,Stacey,Washing Machine,Electronics,23203,10,East,232030
+2025-07-26,Peter,Sugar Pack,Grocery,64749,9,West,582741
+2025-07-11,Timothy,Laptop,Electronics,32679,2,South,65358
+2025-08-25,Linda,Laptop,Electronics,4727,10,East,47270
+2025-08-03,David,Laptop,Electronics,69797,2,East,139594
+2025-07-12,Brandon,Television,Electronics,53076,7,West,371532
+2025-07-22,Caroline,Mobile Phone,Electronics,35212,8,South,281696
+2025-07-23,Raven,Mobile Phone,Electronics,45614,5,East,228070
+2025-08-26,Jessica,Rice Bag,Grocery,12402,3,West,37206
+2025-08-01,Elizabeth,Bread,Grocery,31326,3,East,93978
+2025-08-24,Alexis,Rice Bag,Grocery,21892,3,East,65676
+2025-08-26,Heather,Jeans,Clothing,1719,8,West,13752
+2025-07-29,Tracy,T-Shirt,Clothing,23317,5,North,116585
+2025-07-22,Alexander,Laptop,Electronics,77907,6,West,467442
+2025-07-05,Jean,Rice Bag,Grocery,64053,4,West,256212
+2025-08-20,Sharon,Laptop,Electronics,2329,10,East,23290
+2025-08-13,Jason,Television,Electronics,65998,3,South,197994
+2025-08-26,Thomas,Laptop,Electronics,39974,6,West,239844
+2025-08-28,Cathy,Shoes,Clothing,71577,5,West,357885
+2025-07-27,Nicholas,Shoes,Clothing,60179,1,East,60179
+2025-08-19,Joseph,Shoes,Clothing,67923,10,West,679230
+2025-07-02,Joseph,Headphones,Electronics,68116,1,South,68116
+2025-08-04,Rachel,Jeans,Clothing,18614,6,West,111684
+2025-08-17,Phillip,Mobile Phone,Electronics,75755,7,East,530285
+2025-07-17,Frederick,Laptop,Electronics,25457,7,North,178199
+2025-08-19,Erin,Dress,Clothing,58936,9,South,530424
+2025-08-13,Stephanie,Shoes,Clothing,43460,7,West,304220
+2025-07-06,David,Shoes,Clothing,25028,1,East,25028
+2025-08-29,Susan,Rice Bag,Grocery,56864,8,East,454912
+2025-08-10,Russell,T-Shirt,Clothing,1142,8,South,9136
+2025-08-07,Paul,Jeans,Clothing,68625,5,South,343125
+2025-08-02,Steven,Jacket,Clothing,37832,2,East,75664
+2025-08-23,Lauren,Washing Machine,Electronics,5417,4,East,21668
+2025-08-08,Tami,Rice Bag,Grocery,7022,8,East,56176
+2025-08-26,Nicholas,Washing Machine,Electronics,46220,1,North,46220
+2025-07-21,Kyle,Jeans,Clothing,45953,5,South,229765
+2025-08-26,Shannon,Headphones,Electronics,18746,4,West,74984
+2025-07-19,Nathaniel,Rice Bag,Grocery,38166,4,North,152664
+2025-07-17,Terry,Shoes,Clothing,32651,7,West,228557
+2025-07-19,Dan,T-Shirt,Clothing,34293,5,East,171465
+2025-08-01,Pamela,Television,Electronics,57173,6,South,343038
+2025-08-08,Chris,Milk Packet,Grocery,32820,3,West,98460
+2025-08-08,Jesse,Milk Packet,Grocery,39510,5,North,197550
+2025-07-25,Heather,Dress,Clothing,60494,9,South,544446
+2025-08-16,Michael,Jacket,Clothing,12638,3,West,37914
+2025-08-02,Kimberly,Bread,Grocery,66086,6,West,396516
+2025-07-18,Lucas,Jacket,Clothing,61201,7,West,428407
+2025-08-28,Erin,T-Shirt,Clothing,73307,1,West,73307
+2025-07-04,Bruce,Mobile Phone,Electronics,39684,4,East,158736
+2025-07-28,Karen,Television,Electronics,71257,10,East,712570
+2025-07-08,Justin,Washing Machine,Electronics,16556,7,North,115892
+2025-07-19,Michael,Dress,Clothing,60372,1,North,60372
+2025-07-07,Michael,Headphones,Electronics,14081,6,North,84486
+2025-08-28,Kenneth,Dress,Clothing,63156,6,North,378936
+2025-07-21,Ashley,Television,Electronics,67004,1,South,67004
+2025-07-04,Gary,Milk Packet,Grocery,73718,8,South,589744
+2025-07-18,Mikayla,Mobile Phone,Electronics,39488,5,North,197440
+2025-08-05,Anthony,Dress,Clothing,26356,2,North,52712
+2025-07-09,Rachel,Mobile Phone,Electronics,79190,2,North,158380
+2025-08-21,Thomas,Mobile Phone,Electronics,13629,8,North,109032
+2025-07-04,Jessica,Oil Bottle,Grocery,51261,1,North,51261
+2025-07-04,Sharon,Jacket,Clothing,63452,3,South,190356
+2025-08-12,Luis,Bread,Grocery,57607,10,North,576070
+2025-08-07,Anna,Jeans,Clothing,2888,3,South,8664
+2025-07-23,Samantha,Milk Packet,Grocery,22433,9,South,201897
+2025-08-26,Cindy,Jacket,Clothing,38065,5,North,190325
+2025-07-19,Michael,Oil Bottle,Grocery,48197,5,West,240985
+2025-07-03,Tommy,T-Shirt,Clothing,60862,7,West,426034
+2025-08-27,Anna,Laptop,Electronics,37198,8,North,297584
+2025-08-15,Thomas,Oil Bottle,Grocery,1494,10,East,14940
+2025-08-02,Jeffrey,Television,Electronics,58308,1,East,58308
+2025-07-18,Katrina,Washing Machine,Electronics,60126,5,North,300630
+2025-07-27,Dustin,Headphones,Electronics,65669,9,South,591021
+2025-07-31,Susan,Dress,Clothing,51249,9,North,461241
+2025-07-31,David,Mobile Phone,Electronics,46169,10,East,461690
+2025-07-17,Melinda,Jeans,Clothing,36532,5,West,182660
+2025-07-07,Jennifer,Washing Machine,Electronics,49401,8,South,395208
+2025-08-26,Heather,Sugar Pack,Grocery,68919,5,South,344595
+2025-07-04,James,Bread,Grocery,77232,10,East,772320
+2025-07-08,Anthony,Sugar Pack,Grocery,52973,2,North,105946
+2025-08-06,Timothy,Mobile Phone,Electronics,30419,2,North,60838
+2025-07-19,Richard,Jacket,Clothing,42472,4,South,169888
+2025-07-10,Anthony,Mobile Phone,Electronics,50392,7,North,352744
+2025-08-27,Perry,Television,Electronics,32881,2,North,65762
+2025-07-02,Edward,Rice Bag,Grocery,57922,6,North,347532
+2025-08-22,Danielle,Headphones,Electronics,14161,8,West,113288
+2025-08-08,Stacy,Television,Electronics,72987,4,South,291948
+2025-08-20,Mark,Jacket,Clothing,57395,5,South,286975
+2025-07-20,Andre,Mobile Phone,Electronics,56943,9,South,512487
+2025-07-26,Eric,Television,Electronics,3227,2,South,6454
+2025-07-15,Harold,Mobile Phone,Electronics,736,6,West,4416
+2025-07-08,Jessica,Sugar Pack,Grocery,9482,6,South,56892
+2025-07-24,Connor,Sugar Pack,Grocery,65084,4,South,260336
+2025-07-28,Derek,Oil Bottle,Grocery,65697,6,East,394182
+2025-07-31,Andrew,Sugar Pack,Grocery,18121,2,West,36242
+2025-08-13,Barbara,Jacket,Clothing,9338,10,North,93380
+2025-08-22,Katherine,Television,Electronics,39139,2,North,78278
+2025-08-16,Calvin,Jeans,Clothing,6797,10,East,67970
+2025-08-23,Tiffany,Mobile Phone,Electronics,38047,5,West,190235
+2025-07-29,Elizabeth,Bread,Grocery,8956,3,East,26868
+2025-08-18,Michelle,Television,Electronics,75463,4,East,301852
+2025-07-05,Noah,Dress,Clothing,7474,9,North,67266
+2025-07-07,Andrew,Oil Bottle,Grocery,34528,1,North,34528
+2025-07-25,Spencer,Jacket,Clothing,34244,4,East,136976
+2025-07-13,Bryan,Mobile Phone,Electronics,26819,9,East,241371
+2025-07-26,Yvonne,Rice Bag,Grocery,30932,8,North,247456
+2025-07-26,Leonard,Sugar Pack,Grocery,4684,6,North,28104
+2025-08-03,Richard,Dress,Clothing,10613,9,West,95517
+2025-07-11,James,Headphones,Electronics,5521,2,North,11042
+2025-07-22,Shelly,Dress,Clothing,29573,6,West,177438
+2025-08-19,Scott,Shoes,Clothing,29902,1,North,29902
+2025-08-17,Brett,Mobile Phone,Electronics,70066,10,West,700660
+2025-07-04,Kelly,Rice Bag,Grocery,72466,8,North,579728
+2025-07-08,Jay,Jacket,Clothing,16465,7,West,115255
+2025-08-10,Cynthia,Milk Packet,Grocery,15199,8,North,121592
+2025-07-13,Victor,Bread,Grocery,46159,4,East,184636
+2025-08-03,William,T-Shirt,Clothing,31267,4,North,125068
+2025-07-22,Melissa,Rice Bag,Grocery,29819,7,North,208733
+2025-07-24,Charles,Mobile Phone,Electronics,7505,2,North,15010
+2025-07-13,Thomas,Washing Machine,Electronics,23720,5,North,118600
+2025-07-24,Emily,Shoes,Clothing,79009,4,East,316036
+2025-07-22,Pamela,Television,Electronics,52192,8,North,417536
+2025-07-13,Andrew,Rice Bag,Grocery,10061,5,South,50305
+2025-08-20,Scott,Shoes,Clothing,28923,8,East,231384
+2025-08-28,Tamara,Dress,Clothing,38412,4,East,153648
+2025-07-12,Tanya,Dress,Clothing,66037,2,North,132074
+2025-08-22,Dennis,Jacket,Clothing,63778,5,North,318890
+2025-08-28,Kent,Mobile Phone,Electronics,68337,4,East,273348
+2025-07-12,Lisa,Sugar Pack,Grocery,27675,2,East,55350
+2025-07-18,Jessica,Milk Packet,Grocery,4751,4,West,19004
+2025-07-08,Karen,Oil Bottle,Grocery,15023,1,West,15023
+2025-07-31,Alicia,Headphones,Electronics,36483,10,West,364830
+2025-08-29,Elizabeth,T-Shirt,Clothing,7877,5,West,39385
+2025-08-22,April,T-Shirt,Clothing,50196,7,West,351372
+2025-07-17,Brad,Mobile Phone,Electronics,27015,7,South,189105
+2025-08-08,Ariel,Oil Bottle,Grocery,69844,1,East,69844
+2025-08-05,Robert,Television,Electronics,45637,1,East,45637
+2025-07-21,Anna,Dress,Clothing,28432,1,East,28432
+2025-07-04,Wendy,Sugar Pack,Grocery,56945,7,North,398615
+2025-08-28,Elizabeth,Television,Electronics,50920,5,West,254600
+2025-07-21,Joshua,Dress,Clothing,74538,9,East,670842
+2025-08-08,Kevin,Washing Machine,Electronics,61304,4,South,245216
+2025-07-22,Anna,Headphones,Electronics,36015,2,South,72030
+2025-07-22,Steven,Bread,Grocery,44291,10,West,442910
+2025-07-25,Kristin,Television,Electronics,35999,6,East,215994
+2025-07-14,Jessica,Bread,Grocery,79741,1,North,79741
+2025-08-13,Madison,Dress,Clothing,42122,5,South,210610
+2025-08-26,Gerald,Jacket,Clothing,2313,8,North,18504
+2025-07-31,Ariel,T-Shirt,Clothing,47068,8,South,376544
+2025-08-19,Jerry,T-Shirt,Clothing,76015,2,East,152030
+2025-08-06,Cassandra,Sugar Pack,Grocery,41210,2,West,82420
+2025-07-10,Stephanie,Headphones,Electronics,36244,5,West,181220
+2025-07-20,Dennis,Mobile Phone,Electronics,22921,3,North,68763
+2025-08-17,Kaitlin,Laptop,Electronics,5096,3,West,15288
+2025-08-02,Sharon,Bread,Grocery,5549,9,South,49941
+2025-08-24,Terry,Headphones,Electronics,33793,1,East,33793
+2025-07-06,Todd,Rice Bag,Grocery,78769,4,East,315076
+2025-07-12,Franklin,Laptop,Electronics,66495,8,North,531960
+2025-07-07,Brent,Rice Bag,Grocery,31111,4,East,124444
+2025-08-08,Courtney,Bread,Grocery,54571,2,West,109142
+2025-07-13,Matthew,Jeans,Clothing,3286,6,East,19716
+2025-08-03,Rachel,Jacket,Clothing,49164,8,East,393312
+2025-07-03,Peter,Rice Bag,Grocery,21062,6,North,126372
+2025-07-06,Cynthia,Jeans,Clothing,77543,1,North,77543
+2025-07-13,Jeffrey,Milk Packet,Grocery,41089,9,East,369801
+2025-08-08,Jacqueline,Washing Machine,Electronics,76423,1,South,76423
+2025-07-25,Kimberly,T-Shirt,Clothing,10183,4,West,40732
+2025-07-04,Ryan,Rice Bag,Grocery,69224,1,West,69224
+2025-07-12,Mariah,Sugar Pack,Grocery,68251,8,East,546008
+2025-07-24,Heather,Jeans,Clothing,75448,5,South,377240
+2025-07-30,Jennifer,Jeans,Clothing,47493,4,West,189972
+2025-07-27,David,T-Shirt,Clothing,31644,8,West,253152
+2025-07-07,Anthony,T-Shirt,Clothing,46185,9,North,415665
+2025-08-19,Rebecca,Jacket,Clothing,79377,4,West,317508
+2025-07-27,Tyler,Jeans,Clothing,74674,3,South,224022
+2025-08-06,Joel,Dress,Clothing,18156,10,East,181560
+2025-08-21,Jeanne,Shoes,Clothing,41186,2,North,82372
+2025-08-28,John,Jacket,Clothing,66244,3,West,198732
+2025-08-13,Timothy,Milk Packet,Grocery,23631,8,North,189048
+2025-07-31,Caleb,Laptop,Electronics,54920,5,West,274600
+2025-07-30,Richard,Rice Bag,Grocery,16617,1,West,16617
+2025-07-21,Matthew,Mobile Phone,Electronics,9620,3,West,28860
+2025-07-12,Michael,Shoes,Clothing,16755,7,South,117285
+2025-08-18,Michael,Bread,Grocery,15651,6,East,93906
+2025-08-16,Samantha,Sugar Pack,Grocery,14175,1,North,14175
+2025-07-22,Tracy,Bread,Grocery,58887,7,West,412209
+2025-08-05,Robert,Oil Bottle,Grocery,37967,8,South,303736
+2025-08-01,Joshua,Milk Packet,Grocery,77324,9,North,695916
+2025-07-15,Sarah,Laptop,Electronics,77848,10,East,778480
+2025-07-31,Laura,Oil Bottle,Grocery,49775,6,West,298650
+2025-08-24,Molly,Television,Electronics,77130,5,North,385650
+2025-08-19,Kenneth,Headphones,Electronics,64706,6,North,388236
+2025-07-27,Eric,Sugar Pack,Grocery,68888,10,West,688880
+2025-07-14,Mary,Shoes,Clothing,50390,6,South,302340
+2025-07-13,Yvette,Laptop,Electronics,27664,7,East,193648
+2025-07-19,Joshua,Sugar Pack,Grocery,41254,2,East,82508
+2025-07-01,Rebecca,Jeans,Clothing,15588,5,East,77940
+2025-08-07,Isaac,Jacket,Clothing,29362,3,East,88086
+2025-07-17,Andrew,Dress,Clothing,13959,4,East,55836
+2025-08-05,Mark,Laptop,Electronics,27161,9,South,244449
+2025-07-21,Jon,Television,Electronics,5259,9,South,47331
+2025-07-08,Briana,Washing Machine,Electronics,3428,6,South,20568
+2025-08-11,James,Dress,Clothing,55952,8,South,447616
+2025-08-22,Holly,Shoes,Clothing,14417,2,West,28834
+2025-08-29,Larry,Jacket,Clothing,34529,2,South,69058
+2025-08-21,Jennifer,T-Shirt,Clothing,46412,2,South,92824
+2025-07-09,Kyle,Rice Bag,Grocery,42925,3,East,128775
+2025-08-06,Angela,Jacket,Clothing,67269,2,East,134538
+2025-08-05,Robin,Washing Machine,Electronics,13214,9,East,118926
+2025-08-04,Maria,Television,Electronics,4720,1,South,4720
+2025-08-20,Jacob,Television,Electronics,49360,4,South,197440
+2025-08-01,David,Jacket,Clothing,19898,8,South,159184
+2025-07-08,Tyler,Oil Bottle,Grocery,37090,3,South,111270
+2025-07-14,Christine,Rice Bag,Grocery,67723,4,North,270892
+2025-07-19,Karen,T-Shirt,Clothing,64365,9,South,579285
+2025-08-25,James,Milk Packet,Grocery,5137,7,East,35959
+2025-07-31,Holly,Oil Bottle,Grocery,76582,4,East,306328
+2025-08-17,Brandon,Dress,Clothing,23651,5,South,118255
+2025-07-30,Rebecca,Jacket,Clothing,64304,7,East,450128
+2025-08-27,Monica,Oil Bottle,Grocery,38770,2,South,77540
+2025-07-12,Matthew,Headphones,Electronics,55047,8,East,440376
+2025-08-25,Monica,Washing Machine,Electronics,15230,3,West,45690
+2025-07-02,Beth,T-Shirt,Clothing,45607,7,South,319249
+2025-07-20,Thomas,Jacket,Clothing,78831,7,South,551817
+2025-08-11,Lisa,Headphones,Electronics,35167,9,South,316503
+2025-07-04,Antonio,T-Shirt,Clothing,73746,6,East,442476
+2025-08-24,Andrew,Bread,Grocery,53950,7,West,377650
+2025-07-06,Linda,Jacket,Clothing,34220,1,East,34220
+2025-07-20,Maria,Jeans,Clothing,44593,1,East,44593
+2025-07-14,Dale,Jacket,Clothing,29057,10,South,290570
+2025-08-19,Nicole,Milk Packet,Grocery,14509,10,East,145090
+2025-08-20,Rachel,Television,Electronics,70798,1,North,70798
+2025-08-02,Catherine,T-Shirt,Clothing,43734,6,North,262404
+2025-07-28,Nicholas,Rice Bag,Grocery,68030,4,East,272120
+2025-07-28,Ian,Milk Packet,Grocery,20627,9,West,185643
+2025-08-03,Michael,Milk Packet,Grocery,38085,3,East,114255
+2025-07-30,Susan,Jacket,Clothing,28311,9,South,254799
+2025-08-07,David,Laptop,Electronics,2675,9,North,24075
+2025-07-30,Dustin,Oil Bottle,Grocery,63606,1,South,63606
+2025-07-19,Sierra,Shoes,Clothing,3227,4,South,12908
+2025-07-23,Hailey,Headphones,Electronics,16256,7,West,113792
+2025-07-12,Stacy,Headphones,Electronics,11180,2,North,22360
+2025-08-18,Emma,Oil Bottle,Grocery,2691,1,South,2691
+2025-08-28,Keith,Television,Electronics,51315,4,East,205260
+2025-07-05,Jeffrey,Jacket,Clothing,67205,1,East,67205
+2025-08-05,Kelly,Jacket,Clothing,26613,2,East,53226
+2025-08-05,Teresa,Sugar Pack,Grocery,61837,7,East,432859
+2025-07-28,Monica,T-Shirt,Clothing,29181,7,East,204267
+2025-07-04,Joseph,Shoes,Clothing,69938,9,South,629442
+2025-08-18,Lisa,T-Shirt,Clothing,65197,7,East,456379
+2025-08-08,Kevin,Rice Bag,Grocery,59329,4,North,237316
+2025-08-19,Jeremy,Jeans,Clothing,58650,6,West,351900
+2025-08-18,Christine,Rice Bag,Grocery,40762,6,South,244572
+2025-07-30,Barbara,Rice Bag,Grocery,12552,9,South,112968
+2025-08-11,Christine,Washing Machine,Electronics,77829,4,North,311316
+2025-08-29,Preston,Washing Machine,Electronics,62114,9,South,559026
+2025-07-05,Devin,Washing Machine,Electronics,33083,7,East,231581
+2025-07-31,Paul,Bread,Grocery,19791,1,East,19791
+2025-08-26,Hannah,Sugar Pack,Grocery,78526,7,North,549682
+2025-07-30,Sean,Jeans,Clothing,73766,8,West,590128
+2025-07-05,Steve,Jeans,Clothing,42233,8,West,337864
+2025-07-09,Tiffany,Sugar Pack,Grocery,10723,2,West,21446
+2025-07-30,John,Rice Bag,Grocery,49291,3,North,147873
+2025-08-07,David,Television,Electronics,15972,3,South,47916
+2025-08-29,Bryan,T-Shirt,Clothing,5169,7,West,36183
+2025-08-03,Claudia,Television,Electronics,63907,3,West,191721
+2025-08-22,Ann,T-Shirt,Clothing,38945,2,West,77890
+2025-07-05,Patrick,Shoes,Clothing,68532,6,East,411192
+2025-08-07,Holly,Milk Packet,Grocery,18598,5,South,92990
+2025-08-23,Miguel,Bread,Grocery,68126,10,East,681260
+2025-08-02,David,Jacket,Clothing,27656,6,South,165936
+2025-07-15,Tina,Television,Electronics,62161,1,East,62161
+2025-07-23,Brian,Jeans,Clothing,19756,8,North,158048
+2025-07-13,Cassandra,Headphones,Electronics,24648,4,North,98592
+2025-07-24,Michelle,Oil Bottle,Grocery,43439,2,North,86878
+2025-08-08,Yvonne,Oil Bottle,Grocery,77966,3,North,233898
+2025-08-24,Gabrielle,Dress,Clothing,29676,6,North,178056
+2025-07-10,Natalie,Headphones,Electronics,37299,7,East,261093
+2025-07-19,Heather,Dress,Clothing,52907,5,South,264535
+2025-07-09,Sophia,Television,Electronics,20028,2,South,40056
+2025-08-03,Brent,Jeans,Clothing,34513,10,North,345130
+2025-07-19,Jeremy,Television,Electronics,77030,7,East,539210
+2025-08-09,Sara,Sugar Pack,Grocery,79319,5,West,396595
+2025-08-21,Jeremy,Mobile Phone,Electronics,400,4,South,1600
+2025-08-10,Tony,Television,Electronics,19250,3,South,57750
+2025-08-09,David,T-Shirt,Clothing,42430,2,North,84860
+2025-08-28,Craig,Television,Electronics,57680,7,West,403760
+2025-07-28,Samuel,Shoes,Clothing,65635,2,South,131270
+2025-08-10,Matthew,Oil Bottle,Grocery,49504,7,West,346528
+2025-08-07,Cody,Shoes,Clothing,68467,6,North,410802
+2025-07-19,Susan,Milk Packet,Grocery,21823,5,South,109115
+2025-08-05,Christopher,Dress,Clothing,57937,8,East,463496
+2025-08-18,Allison,Rice Bag,Grocery,73175,7,East,512225
+2025-07-11,Kathryn,Laptop,Electronics,47981,8,East,383848
+2025-07-29,Doris,Oil Bottle,Grocery,28070,10,South,280700
+2025-07-23,Kevin,Shoes,Clothing,23512,1,South,23512
+2025-07-26,Charles,Shoes,Clothing,68994,4,North,275976
+2025-07-30,Todd,Bread,Grocery,43100,2,East,86200
+2025-08-13,Christine,Dress,Clothing,1753,10,East,17530
+2025-08-10,Luke,Headphones,Electronics,62798,7,North,439586
+2025-07-01,Travis,Bread,Grocery,35986,1,North,35986
+2025-07-08,Charles,Oil Bottle,Grocery,79682,8,West,637456
+2025-07-17,Gregory,Washing Machine,Electronics,71561,2,North,143122
+2025-07-21,Jeffrey,T-Shirt,Clothing,20129,3,South,60387
+2025-08-14,Paula,Washing Machine,Electronics,15703,1,West,15703
+2025-08-27,Joseph,Rice Bag,Grocery,41237,2,East,82474
+2025-07-12,Angela,Television,Electronics,2235,6,East,13410
+2025-08-23,Thomas,Milk Packet,Grocery,76969,6,North,461814
+2025-07-17,Herbert,Oil Bottle,Grocery,54625,1,North,54625
+2025-07-21,Heather,Television,Electronics,19384,5,North,96920
+2025-08-26,Molly,Washing Machine,Electronics,5883,5,South,29415
+2025-08-17,Denise,Sugar Pack,Grocery,53691,3,North,161073
+2025-08-03,Andrew,Shoes,Clothing,73523,6,North,441138
+2025-08-12,Adam,Jacket,Clothing,74521,2,West,149042
+2025-08-12,Jacob,Laptop,Electronics,11920,3,North,35760
+2025-07-12,Jeffery,Headphones,Electronics,77533,1,South,77533
+2025-07-31,Michael,Mobile Phone,Electronics,49140,8,North,393120
+2025-08-26,Carla,Milk Packet,Grocery,40391,4,South,161564
+2025-08-05,Shawn,T-Shirt,Clothing,49766,5,South,248830
+2025-08-25,Sarah,Jeans,Clothing,74110,6,West,444660
+2025-08-09,Brett,Mobile Phone,Electronics,35806,4,South,143224
+2025-07-08,Joshua,Shoes,Clothing,57669,5,North,288345
+2025-08-11,Maria,Shoes,Clothing,75900,6,East,455400
+2025-08-21,Shelly,Sugar Pack,Grocery,58989,3,North,176967
+2025-08-28,Craig,Oil Bottle,Grocery,20458,9,South,184122
+2025-07-25,Scott,Oil Bottle,Grocery,45521,5,South,227605
+2025-08-28,Joshua,Dress,Clothing,72350,5,North,361750
+2025-07-18,Brian,Milk Packet,Grocery,33894,4,West,135576
+2025-07-27,Megan,T-Shirt,Clothing,15162,9,South,136458
+2025-07-19,Christopher,Jeans,Clothing,61292,10,East,612920
+2025-07-11,Jacqueline,Dress,Clothing,49583,10,North,495830
+2025-07-01,Rachael,T-Shirt,Clothing,47089,1,South,47089
+2025-07-19,Sean,Jacket,Clothing,43921,6,North,263526
+2025-08-25,Erin,Headphones,Electronics,40194,3,West,120582
+2025-08-13,Miranda,Milk Packet,Grocery,2900,8,West,23200
+2025-08-01,Kayla,Sugar Pack,Grocery,57062,7,West,399434
+2025-08-02,Damon,Headphones,Electronics,48968,10,East,489680
+2025-08-25,Cassidy,Jacket,Clothing,39394,1,South,39394
+2025-08-28,Tyler,Rice Bag,Grocery,55229,7,East,386603
+2025-08-28,Suzanne,Oil Bottle,Grocery,77785,1,South,77785
+2025-07-12,Lisa,Milk Packet,Grocery,39447,10,South,394470
+2025-07-31,Lisa,Milk Packet,Grocery,17075,6,North,102450
+2025-08-08,Tamara,Headphones,Electronics,18591,6,West,111546
+2025-08-17,Jose,Jeans,Clothing,60420,1,South,60420
+2025-07-25,Adam,Mobile Phone,Electronics,39539,5,North,197695
+2025-07-05,Gail,Mobile Phone,Electronics,26699,7,North,186893
+2025-08-21,Travis,Milk Packet,Grocery,20253,9,East,182277
+2025-08-27,Ricky,Washing Machine,Electronics,20933,6,North,125598
+2025-07-13,Renee,Dress,Clothing,51698,4,West,206792
+2025-08-12,Nicole,Oil Bottle,Grocery,60799,4,North,243196
+2025-07-19,Michael,Jeans,Clothing,41777,3,West,125331
+2025-08-04,Briana,Shoes,Clothing,55702,10,West,557020
+2025-07-11,Thomas,Rice Bag,Grocery,45514,8,North,364112
+2025-08-29,Kelly,Television,Electronics,23401,4,East,93604
+2025-08-04,Joshua,Shoes,Clothing,65776,1,West,65776
+2025-07-24,Melissa,Mobile Phone,Electronics,18148,8,South,145184
+2025-08-19,Nicole,Mobile Phone,Electronics,39625,7,North,277375
+2025-08-16,Kimberly,Jacket,Clothing,23626,7,South,165382
+2025-08-05,Kathleen,Shoes,Clothing,50750,8,North,406000
+2025-08-13,Brandon,Jacket,Clothing,23579,3,West,70737
+2025-07-11,Roger,Sugar Pack,Grocery,14000,8,North,112000
+2025-08-15,Emily,T-Shirt,Clothing,53065,1,South,53065
+2025-08-25,Marcus,Jeans,Clothing,75374,9,West,678366
+2025-07-31,Joseph,Oil Bottle,Grocery,1568,8,West,12544
+2025-08-09,Nathan,T-Shirt,Clothing,39758,7,East,278306
+2025-07-10,Margaret,Rice Bag,Grocery,79169,8,East,633352
+2025-07-27,Nancy,Shoes,Clothing,70176,6,North,421056
+2025-07-11,Kelly,Washing Machine,Electronics,69742,7,North,488194
+2025-08-22,Ryan,Laptop,Electronics,44236,10,East,442360
+2025-07-14,Ashlee,Television,Electronics,59686,7,North,417802
+2025-08-08,Angela,Shoes,Clothing,5272,2,West,10544
+2025-08-01,Matthew,Shoes,Clothing,6613,10,East,66130
+2025-08-18,Erica,Jacket,Clothing,44281,5,North,221405
+2025-07-11,Timothy,Bread,Grocery,23476,5,East,117380
+2025-07-26,Jacqueline,T-Shirt,Clothing,58609,6,East,351654
+2025-08-20,Scott,Rice Bag,Grocery,78139,2,East,156278
+2025-07-30,Chad,Rice Bag,Grocery,69684,7,South,487788
+2025-08-15,Lisa,Laptop,Electronics,70171,2,South,140342
+2025-07-07,Rose,Milk Packet,Grocery,64727,7,East,453089
+2025-08-27,Linda,Jacket,Clothing,32044,9,West,288396
+2025-08-26,Bianca,Laptop,Electronics,42856,6,North,257136
+2025-07-05,John,Television,Electronics,13304,7,North,93128
+2025-07-23,Nicholas,Shoes,Clothing,55431,7,North,388017
+2025-07-06,Susan,Headphones,Electronics,10441,7,North,73087
+2025-08-07,Deanna,Television,Electronics,34256,5,South,171280
+2025-08-28,Jessica,Rice Bag,Grocery,49101,10,West,491010
+2025-08-13,Mary,Washing Machine,Electronics,36066,3,East,108198
+2025-07-02,Jacob,Rice Bag,Grocery,79299,7,South,555093
+2025-08-01,Julia,Bread,Grocery,35790,1,West,35790

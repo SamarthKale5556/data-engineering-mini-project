@@ -33,16 +33,16 @@ The project demonstrates how a small retail dataset can be captured, cleaned, an
 
 ##  Analysis & Insights
 From the processed dataset, the following insights were generated:
--Total Revenue: ₹32,82,55,375 (overall sales from all transactions)
--Best Selling Product: Jacket
--Top Customer: Michael
+-**Total Revenue**: ₹32,82,55,375 (overall sales from all transactions)
+-**Best Selling Product**: Jacket
+-**Top Customer**: Michael
 
--Revenue by Category:
+-**Revenue by Category**:
 -Electronics → ₹11,34,54,394
 -Clothing → ₹11,03,36,214
 -Grocery → ₹10,44,64,767
 
--Daily Sales Trend (Peak Days):
+-**Daily Sales Trend (Peak Days)**:
 
 -17th July 2025 → ₹87,70,031
 -30th July 2025 → ₹85,73,545
